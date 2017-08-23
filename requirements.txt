@@ -1,0 +1,7 @@
+numpy
+scipy
+matplotlib
+jupyter
+sqlalchemy
+psycopg2
+pandas==0.20.3

@@ -1,0 +1,1001 @@
+code,name,region
+1,"Duck, comb",Guyana
+2,Canadian river otter,Norway
+3,"Squirrel, palm",China
+4,Bee-eater (unidentified),Russia
+5,European badger,Greece
+6,"Colobus, white-mantled",Poland
+7,Egyptian viper,United States
+8,Arctic lemming,Bolivia
+9,Warthog,Vanuatu
+10,"Butterfly, canadian tiger swallowtail",China
+11,Orca,China
+12,Bontebok,Peru
+13,Brazilian otter,Vietnam
+14,"Bleu, blue-breasted cordon",Venezuela
+15,"Teal, hottentot",China
+16,Downy woodpecker,Norway
+17,"Dragon, ornate rock",China
+18,"Peccary, white-lipped",Canada
+19,"Egret, snowy",Brazil
+20,"Dolphin, bottle-nose",Indonesia
+21,Magellanic penguin,Costa Rica
+22,"Turtle, snake-necked",China
+23,"Hornbill, southern ground",China
+24,Spotted deer,Mongolia
+25,"Sloth, two-toed tree",Poland
+26,"Eagle, crowned",Russia
+27,Oriental white-backed vulture,Indonesia
+28,Black-crowned night heron,Canada
+29,"Hartebeest, coke's",Thailand
+30,Small-toothed palm civet,Philippines
+31,Black spider monkey,France
+32,Sandhill crane,Russia
+33,Red and blue macaw,China
+34,Australian brush turkey,Chad
+35,"Peccary, collared",Azerbaijan
+36,Civet (unidentified),Philippines
+37,"Vulture, griffon",Indonesia
+38,Cormorant (unidentified),China
+39,Masked booby,Uganda
+40,"Snake, eastern indigo",China
+41,"Pintail, white-cheeked",Greece
+42,"Wallaby, whip-tailed",Brazil
+43,"Lechwe, kafue flats",Sweden
+44,Great kiskadee,Namibia
+45,"Heron, goliath",Iran
+46,"Peacock, blue",Brazil
+47,Ground legaan,France
+48,"Mynah, indian",Indonesia
+49,"Mynah, common",Russia
+50,Greater adjutant stork,China
+51,Black-cheeked waxbill,China
+52,Woodchuck,Turkmenistan
+53,"Kookaburra, laughing",Philippines
+54,"Stilt, black-winged",Indonesia
+55,"Mongoose, small indian",China
+56,American racer,Indonesia
+57,"Goose, snow",Brazil
+58,Caracal,Philippines
+59,Collared lizard,Sweden
+60,American alligator,China
+61,"Ibis, sacred",Indonesia
+62,Southern white-crowned shrike,Palestinian Territory
+63,"Heron, goliath",Sweden
+64,Weeper capuchin,Belarus
+65,Caracal,Peru
+66,Indian leopard,China
+67,"Capuchin, weeper",United States
+68,"Bulbul, african red-eyed",Thailand
+69,"Lizard, desert spiny",Philippines
+70,"Coatimundi, white-nosed",Philippines
+71,"Peacock, blue",Ukraine
+72,African darter,China
+73,"Fox, pampa gray",Indonesia
+74,Brush-tailed phascogale,Indonesia
+75,Egyptian vulture,South Korea
+76,Black-tailed prairie dog,Russia
+77,"Moorhen, purple",Philippines
+78,Silver gull,Afghanistan
+79,"Openbill, asian",Latvia
+80,Blue racer,Iran
+81,Grey lourie,Italy
+82,Kori bustard,United States
+83,"Bandicoot, short-nosed",United States
+84,Western bearded dragon,China
+85,"Cardinal, red-capped",Philippines
+86,Blackish oystercatcher,China
+87,Snowy owl,Finland
+88,Llama,Indonesia
+89,European spoonbill,Venezuela
+90,"Tenrec, tailless",China
+91,Ant (unidentified),China
+92,"Gull, lava",Paraguay
+93,"Possum, pygmy",Italy
+94,Musk ox,Indonesia
+95,"Blackbird, red-winged",Indonesia
+96,"Capuchin, black-capped",France
+97,Ring-necked pheasant,China
+98,Eastern quoll,Russia
+99,"Flamingo, roseat",Indonesia
+100,"Hartebeest, coke's",Brazil
+101,"Bandicoot, southern brown",Slovenia
+102,Monitor lizard (unidentified),Azerbaijan
+103,Long-necked turtle,Czech Republic
+104,"Siskin, pine",Macedonia
+105,Ocelot,Colombia
+106,"Ferret, black-footed",Palestinian Territory
+107,Short-beaked echidna,China
+108,Australian spiny anteater,United States
+109,Pig-tailed macaque,Indonesia
+110,Anaconda (unidentified),China
+111,Western patch-nosed snake,Cuba
+112,Blue-tongued skink,Ivory Coast
+113,White stork,Canada
+114,Russian dragonfly,Ethiopia
+115,Sage grouse,Ukraine
+116,Red-billed toucan,Brazil
+117,"Beaver, european",Ireland
+118,Griffon vulture,China
+119,Galapagos sea lion,China
+120,Yak,China
+121,North American porcupine,Indonesia
+122,Wild water buffalo,France
+123,European beaver,Sri Lanka
+124,Red-necked phalarope,China
+125,Nilgai,Brazil
+126,"Albatross, waved",Philippines
+127,White-fronted bee-eater,Indonesia
+128,Yellow-billed hornbill,Portugal
+129,"Seal, northern elephant",Czech Republic
+130,Sidewinder,Botswana
+131,Bird (unidentified),Mexico
+132,"Elephant, african",Poland
+133,Green-winged trumpeter,China
+134,"Cockatoo, red-breasted",Canada
+135,"Peccary, white-lipped",Burkina Faso
+136,Campo flicker,Ireland
+137,Rhesus monkey,Poland
+138,"Duck, blue",China
+139,"Armadillo, giant",Russia
+140,Painted stork,China
+141,Gray duiker,China
+142,House sparrow,France
+143,Sacred ibis,Portugal
+144,Western bearded dragon,Philippines
+145,"Penguin, little blue",Yemen
+146,"Ass, asiatic wild",South Africa
+147,Blesbok,Mexico
+148,"Flamingo, chilean",South Africa
+149,Chimpanzee,Portugal
+150,Southern hairy-nosed wombat,Portugal
+151,Little brown dove,Philippines
+152,"Turaco, violet-crested",Ukraine
+153,Silver-backed jackal,Philippines
+154,Bush dog,Ukraine
+155,Bare-faced go away bird,Poland
+156,Grey heron,Philippines
+157,Osprey,Thailand
+158,Cape white-eye,Ireland
+159,"Capuchin, white-fronted",Tanzania
+160,"Whale, killer",Portugal
+161,"Racer, blue",China
+162,"Baboon, yellow",Paraguay
+163,"Tamandua, southern",Serbia
+164,Thomson's gazelle,China
+165,"Porcupine, north american",Indonesia
+166,Mexican wolf,Sweden
+167,Common melba finch,China
+168,European stork,China
+169,Black vulture,Serbia
+170,"Cat, african wild",China
+171,African wild cat,Japan
+172,"Pigeon, feral rock",China
+173,Black-backed magpie,Kosovo
+174,"Alligator, mississippi",Colombia
+175,"Marten, american",Armenia
+176,"Waterbuck, common",Philippines
+177,Currasow (unidentified),Dominican Republic
+178,Galapagos sea lion,Brazil
+179,"Blackbird, red-winged",Botswana
+180,Madagascar fruit bat,Colombia
+181,"Nighthawk, common",Philippines
+182,Warthog,Czech Republic
+183,"Bleu, red-cheeked cordon",Sweden
+184,"Bee-eater, nubian",Philippines
+185,Small-spotted genet,Libya
+186,Red-billed tropic bird,France
+187,Tayra,France
+188,Green heron,Pakistan
+189,African elephant,Egypt
+190,"Cat, native",Argentina
+191,"Barbet, levaillant's",Colombia
+192,"Seal, common",Argentina
+193,"Boa, columbian rainbow",Poland
+194,"Marmot, yellow-bellied",Mexico
+195,Coqui partridge,France
+196,Bohor reedbuck,Indonesia
+197,Dromedary camel,Indonesia
+198,Cape wild cat,Iran
+199,"Hoopoe, eurasian",Luxembourg
+200,"Bear, black",Indonesia
+201,"Rattlesnake, horned",Portugal
+202,"Stork, woolly-necked",Croatia
+203,Bald eagle,South Korea
+204,Australian pelican,Sierra Leone
+205,"Dove, mourning collared",Denmark
+206,"Reedbuck, bohor",Georgia
+207,American black bear,Indonesia
+208,"Otter, african clawless",Indonesia
+209,Blue catfish,Indonesia
+210,"Squirrel, indian giant",Czech Republic
+211,Ground monitor (unidentified),China
+212,Four-horned antelope,Colombia
+213,"Jackal, indian",China
+214,White-winged tern,Sierra Leone
+215,"Shrew, mandras tree",United States
+216,Southern ground hornbill,Philippines
+217,Warthog,China
+218,Sun gazer,Indonesia
+219,Peregrine falcon,Democratic Republic of the Congo
+220,"Sloth, two-toed",Portugal
+221,"Heron, green-backed",Japan
+222,Olive baboon,China
+223,Malleefowl,Colombia
+224,"Skink, blue-tongued",China
+225,"Wapiti, elk,",Philippines
+226,Blue-tongued lizard,China
+227,"Alligator, mississippi",Vietnam
+228,Pied kingfisher,Brazil
+229,"Tortoise, galapagos",Brazil
+230,"Buffalo, wild water",Russia
+231,Adouri (unidentified),Portugal
+232,Brown lemur,United Arab Emirates
+233,Marine iguana,Afghanistan
+234,"Mongoose, yellow",Portugal
+235,Brazilian otter,Philippines
+236,"Lapwing, southern",Pakistan
+237,Desert kangaroo rat,Montenegro
+238,"Stork, woolly-necked",Colombia
+239,Magistrate black colobus,Mexico
+240,Knob-nosed goose,China
+241,Small-toothed palm civet,Russia
+242,"Goat, mountain",Portugal
+243,"Reedbuck, bohor",Thailand
+244,Fork-tailed drongo,Belarus
+245,Cape wild cat,Germany
+246,Old world fruit bat (unidentified),Colombia
+247,Bennett's wallaby,Brazil
+248,Black bear,Russia
+249,"Eagle, long-crested hawk",Indonesia
+250,Salmon pink bird eater tarantula,Venezuela
+251,Green-winged macaw,Ecuador
+252,Red-legged pademelon,Mexico
+253,"Phascogale, brush-tailed",Indonesia
+254,"Iguana, common green",China
+255,Giant armadillo,United States
+256,"Elephant, african",Indonesia
+257,"Kangaroo, brush-tailed rat",Malaysia
+258,White-browed sparrow weaver,France
+259,"Vulture, white-headed",China
+260,Western pygmy possum,Indonesia
+261,Crested screamer,Chile
+262,"Vulture, bengal",China
+263,"Booby, blue-faced",Greece
+264,Tyrant flycatcher,Laos
+265,Brush-tailed rat kangaroo,China
+266,Scottish highland cow,Nigeria
+267,Silver gull,Ukraine
+268,Fork-tailed drongo,Russia
+269,"Dolphin, striped",Indonesia
+270,"Corella, long-billed",Indonesia
+271,Red-cheeked cordon bleu,Indonesia
+272,"Goose, snow",Russia
+273,Grey lourie,Vietnam
+274,Serval,China
+275,Sociable weaver,Venezuela
+276,"Falcon, peregrine",Thailand
+277,Common wombat,Guatemala
+278,"Quoll, spotted-tailed",Haiti
+279,"Marshbird, brown and yellow",Nigeria
+280,"Boa, columbian rainbow",China
+281,"Macaque, japanese",Canada
+282,"Bird, bare-faced go away",Palestinian Territory
+283,Currasow (unidentified),Spain
+284,"Crow, american",Argentina
+285,Puma,Brazil
+286,Blue and gold macaw,Poland
+287,"Monster, gila",Indonesia
+288,White-winged black tern,China
+289,"Sheathbill, snowy",China
+290,Sidewinder,Indonesia
+291,Turkey vulture,Philippines
+292,Zorilla,Thailand
+293,"Wallaby, euro",Sweden
+294,Black-tailed prairie dog,Russia
+295,"Woodpecker, red-headed",Portugal
+296,Prairie falcon,China
+297,Brush-tailed bettong,Guatemala
+298,Galapagos tortoise,Czech Republic
+299,Savanna fox,China
+300,"Rhea, gray",China
+301,Common brushtail possum,South Africa
+302,"Ox, musk",China
+303,Southern white-crowned shrike,Russia
+304,"Echidna, short-beaked",Sweden
+305,"Cormorant, little",Argentina
+306,Brush-tailed rat kangaroo,Sweden
+307,Coqui partridge,China
+308,American black bear,Sweden
+309,Mexican wolf,Indonesia
+310,Curve-billed thrasher,China
+311,"Kite, black",Indonesia
+312,Barking gecko,Guatemala
+313,Masked booby,Bolivia
+314,Common mynah,Russia
+315,"Fox, bat-eared",Poland
+316,"Crow, house",Sweden
+317,Mudskipper (unidentified),Georgia
+318,"Raccoon, crab-eating",Latvia
+319,"Woodpecker, downy",Albania
+320,"Phalarope, red",Indonesia
+321,Eleven-banded armadillo (unidentified),Tanzania
+322,Suricate,Japan
+323,"Cormorant, neotropic",Bangladesh
+324,Canada goose,China
+325,"White-eye, pale",Tanzania
+326,"Admiral, indian red",United States
+327,Greater blue-eared starling,China
+328,Chameleon (unidentified),United States
+329,"Crow, american",China
+330,"Magpie, australian",Afghanistan
+331,Jabiru stork,Russia
+332,Black-throated butcher bird,Ukraine
+333,Northern phalarope,China
+334,African wild dog,France
+335,Long-tailed spotted cat,Morocco
+336,Chilean flamingo,France
+337,Fat-tailed dunnart,Russia
+338,Stick insect,Philippines
+339,Red-winged blackbird,Mexico
+340,Golden brush-tailed possum,Russia
+341,Slender loris,Philippines
+342,Chilean flamingo,Ukraine
+343,Euro wallaby,Zambia
+344,"Plover, three-banded",Portugal
+345,Bohor reedbuck,Indonesia
+346,"Legaan, water",Philippines
+347,"Ox, musk",Brazil
+348,"Flicker, campo",China
+349,"Penguin, fairy",Indonesia
+350,"Tortoise, burmese black mountain",China
+351,"Sparrow, house",Serbia
+352,Defassa waterbuck,Indonesia
+353,"Buffalo, american",Russia
+354,"Seal, southern elephant",China
+355,Blue wildebeest,Bulgaria
+356,"Barbet, black-collared",Pakistan
+357,"Hawk, red-tailed",Indonesia
+358,"Brocket, brown",China
+359,Blue-tongued skink,Philippines
+360,"Ibis, puna",Croatia
+361,"Lion, galapagos sea",Central African Republic
+362,Grey heron,Australia
+363,"Sloth, hoffman's",China
+364,Potoroo,Colombia
+365,African wild dog,China
+366,"Cormorant, neotropic",United States
+367,"Kingfisher, white-throated",Russia
+368,Eastern boa constrictor,Indonesia
+369,"Catfish, blue",China
+370,Bushpig,Montenegro
+371,"Porcupine, prehensile-tailed",Netherlands
+372,Sugar glider,Poland
+373,Tawny eagle,China
+374,Common seal,Indonesia
+375,American beaver,China
+376,Magistrate black colobus,Afghanistan
+377,Four-horned antelope,Japan
+378,Crimson-breasted shrike,China
+379,"Tortoise, galapagos",Sri Lanka
+380,Burmese black mountain tortoise,South Africa
+381,Pacific gull,Thailand
+382,"Heron, green",France
+383,Rainbow lory,France
+384,"Robin, kalahari scrub",Peru
+385,White-tailed jackrabbit,Japan
+386,Mountain lion,China
+387,Blue waxbill,Kenya
+388,Ground monitor (unidentified),Sweden
+389,"Rhea, greater",Indonesia
+390,"Puma, south american",China
+391,Genoveva,Russia
+392,"Vulture, turkey",France
+393,Goanna lizard,France
+394,Arctic ground squirrel,China
+395,"Beaver, european",France
+396,"Civet, common palm",Colombia
+397,"Anteater, australian spiny",Poland
+398,Red-tailed phascogale,Argentina
+399,Spotted wood sandpiper,Bulgaria
+400,"Whale, killer",Russia
+401,Griffon vulture,Japan
+402,"Genet, small-spotted",Portugal
+403,Swallow (unidentified),Indonesia
+404,"Partridge, coqui",China
+405,"Jackal, silver-backed",Croatia
+406,"Otter, canadian river",Brazil
+407,"Marshbird, brown and yellow",Kazakhstan
+408,"Skua, great",Serbia
+409,Common waterbuck,China
+410,"Pademelon, red-legged",Philippines
+411,Western lowland gorilla,China
+412,"Lemur, sportive",Sri Lanka
+413,American alligator,Uganda
+414,Great cormorant,Japan
+415,Lesser double-collared sunbird,Indonesia
+416,Yellow-bellied marmot,China
+417,Levaillant's barbet,China
+418,Water moccasin,Indonesia
+419,Salmon pink bird eater tarantula,Indonesia
+420,Harbor seal,Mexico
+421,"Caracara, yellow-headed",Bolivia
+422,Lapwing (unidentified),Philippines
+423,"Otter, north american river",Lesotho
+424,"Vulture, egyptian",Mayotte
+425,Magnificent frigate bird,Indonesia
+426,Stick insect,France
+427,Eastern cottontail rabbit,Poland
+428,Gerenuk,Portugal
+429,Water monitor,Portugal
+430,"Stork, openbill",Finland
+431,American badger,Indonesia
+432,"Kangaroo, brush-tailed rat",China
+433,"Pintail, white-cheeked",Sweden
+434,"Legaan, ground",China
+435,Gray heron,Brazil
+436,"Rattlesnake, horned",Norway
+437,"Catfish, blue",Thailand
+438,Flying fox (unidentified),United States
+439,"Shrew, mandras tree",Thailand
+440,Sacred ibis,Indonesia
+441,Urial,Costa Rica
+442,"Squirrel, uinta ground",Russia
+443,Great kiskadee,Russia
+444,Southern brown bandicoot,Guatemala
+445,"Hartebeest, red",Czech Republic
+446,Great white pelican,Cameroon
+447,"Phalarope, red",China
+448,Seven-banded armadillo,Indonesia
+449,Jaguar,Honduras
+450,Black-throated cardinal,Indonesia
+451,Red-legged pademelon,Japan
+452,Kinkajou,Canada
+453,"Eagle, white-bellied sea",Syria
+454,Black kite,Russia
+455,"Goose, greylag",Russia
+456,Jungle cat,France
+457,"Sandpiper, spotted wood",China
+458,American marten,Indonesia
+459,Sea birds (unidentified),Russia
+460,Hanuman langur,Portugal
+461,"Cobra, egyptian",Indonesia
+462,Black spider monkey,Russia
+463,Lesser mouse lemur,South Korea
+464,"Antelope, sable",Greece
+465,"Fox, crab-eating",Russia
+466,"Boa, cook's tree",Colombia
+467,Cape white-eye,Bulgaria
+468,Cottonmouth,Nigeria
+469,Jaguarundi,Azerbaijan
+470,Timber wolf,Peru
+471,"Woodpecker, red-headed",Spain
+472,"Swan, trumpeter",China
+473,Dama wallaby,Comoros
+474,Huron,Portugal
+475,"Ibis, puna",Brazil
+476,"Seal, southern elephant",China
+477,"Lion, australian sea",Indonesia
+478,"Cormorant, flightless",Portugal
+479,"Heron, yellow-crowned night",Taiwan
+480,Indian star tortoise,Tanzania
+481,Potoroo,Cyprus
+482,Blue-footed booby,Brazil
+483,Golden jackal,Norway
+484,Bushpig,Brazil
+485,"Francolin, swainson's",Russia
+486,Potoroo,China
+487,"Penguin, magellanic",Costa Rica
+488,Wild water buffalo,China
+489,"Seal, northern fur",China
+490,Bobcat,Mongolia
+491,Burmese black mountain tortoise,China
+492,Feathertail glider,Sweden
+493,Tiger,Brazil
+494,Common eland,Czech Republic
+495,Galapagos albatross,Brazil
+496,Long-crested hawk eagle,Sweden
+497,"Goldeneye, common",Philippines
+498,"Capuchin, black-capped",Portugal
+499,Red howler monkey,Sweden
+500,"Macaque, bonnet",Pakistan
+501,Southern brown bandicoot,Japan
+502,Great egret,Morocco
+503,Southern ground hornbill,Palestinian Territory
+504,"Dove, mourning collared",Palestinian Territory
+505,"Sungazer, yellow-brown",Russia
+506,"Cat, european wild",Palestinian Territory
+507,"Hawk-eagle, crowned",Russia
+508,"Woodpecker, red-headed",Ukraine
+509,Eagle owl (unidentified),Brazil
+510,Gambel's quail,Saint Kitts and Nevis
+511,South American puma,Brazil
+512,Asian openbill,Indonesia
+513,"Cat, european wild",Argentina
+514,White-necked raven,Malaysia
+515,"Puffin, horned",Luxembourg
+516,Common wallaroo,New Zealand
+517,"Siskin, pine",Bosnia and Herzegovina
+518,White-throated kingfisher,Indonesia
+519,Woodchuck,Brazil
+520,"Cormorant, pied",Ireland
+521,Great horned owl,Peru
+522,"Roller, lilac-breasted",Indonesia
+523,"Snake, western patch-nosed",China
+524,Common grenadier,China
+525,"Eagle, bateleur",Guyana
+526,"Squirrel, red",China
+527,Leopard,Indonesia
+528,"Rhea, common",Russia
+529,African wild dog,Indonesia
+530,"Dragon, asian water",Indonesia
+531,"Meerkat, red",Poland
+532,"Bat, madagascar fruit",Brazil
+533,Kirk's dik dik,Czech Republic
+534,"Caracara, yellow-headed",Indonesia
+535,"Skua, great",Brazil
+536,Arctic ground squirrel,China
+537,"Zebra, plains",Ukraine
+538,Nilgai,Finland
+539,Little blue penguin,China
+540,Anaconda (unidentified),Indonesia
+541,"Penguin, magellanic",Cameroon
+542,Red-capped cardinal,Ireland
+543,Greater blue-eared starling,Russia
+544,Bee-eater (unidentified),China
+545,Antelope ground squirrel,Morocco
+546,Nelson ground squirrel,Canada
+547,"Swan, trumpeter",Estonia
+548,"Crow, american",Ukraine
+549,"Constrictor, eastern boa",Mexico
+550,Malleefowl,Indonesia
+551,Oriental short-clawed otter,Colombia
+552,Mourning collared dove,China
+553,"Duck, blue",Moldova
+554,"Capuchin, black-capped",China
+555,"Squirrel, eastern fox",Mexico
+556,Magellanic penguin,Philippines
+557,"Hartebeest, red",Tanzania
+558,Red-necked phalarope,Portugal
+559,Hudsonian godwit,United States
+560,Frilled dragon,Cameroon
+561,Blue and yellow macaw,Vietnam
+562,"Buffalo, wild water",Nigeria
+563,"Bee-eater, carmine",Micronesia
+564,Pale white-eye,Sierra Leone
+565,Racer snake,Sweden
+566,"Vulture, bengal",Philippines
+567,"Deer, savannah",Yemen
+568,Galapagos penguin,China
+569,"Goose, cereopsis",China
+570,African black crake,China
+571,"Tamandua, southern",Portugal
+572,Red hartebeest,Tajikistan
+573,Wild water buffalo,Philippines
+574,Old world fruit bat (unidentified),Philippines
+575,Impala,China
+576,"Macaw, scarlet",China
+577,"Lemur, ring-tailed",Guatemala
+578,Asian lion,Indonesia
+579,"Bandicoot, long-nosed",Russia
+580,Asian water buffalo,United States
+581,"Stork, yellow-billed",China
+582,Brown hyena,Indonesia
+583,Long-billed corella,Sweden
+584,White-throated monitor,Russia
+585,"Wambenger, red-tailed",El Salvador
+586,"Turtle, snake-necked",New Zealand
+587,"Fox, cape",Indonesia
+588,Red-breasted nuthatch,Japan
+589,North American porcupine,Martinique
+590,"Devil, tasmanian",China
+591,Roseate cockatoo,Peru
+592,Long-crested hawk eagle,Antigua and Barbuda
+593,"Trotter, lily",Ecuador
+594,"Whale, killer",Czech Republic
+595,"Screamer, southern",Russia
+596,"Avocet, pied",France
+597,"Tortoise, desert",China
+598,"Skink, african",Albania
+599,"Antelope, roan",Colombia
+600,Killer whale,Ireland
+601,Jaguarundi,Dominican Republic
+602,"Openbill, asian",Libya
+603,Cape Barren goose,China
+604,Klipspringer,Portugal
+605,Eurasian badger,Afghanistan
+606,"Bee-eater, nubian",China
+607,Greater rhea,China
+608,"Peacock, indian",France
+609,Sockeye salmon,Kazakhstan
+610,Bald eagle,Russia
+611,American badger,Russia
+612,Long-tailed skua,Libya
+613,"Gull, herring",China
+614,Pampa gray fox,China
+615,Little cormorant,Russia
+616,"Goose, knob-nosed",China
+617,"Eland, common",Afghanistan
+618,Blue-footed booby,Portugal
+619,Spotted-tailed quoll,China
+620,Wild turkey,Ukraine
+621,"Darter, african",China
+622,"Wolf, mexican",Poland
+623,Little blue penguin,Philippines
+624,Madagascar hawk owl,China
+625,Swainson's francolin,Portugal
+626,Kelp gull,China
+627,Brindled gnu,Thailand
+628,"Reedbuck, bohor",Sweden
+629,Eastern indigo snake,Kazakhstan
+630,"Viper, egyptian",China
+631,Genoveva,Honduras
+632,Pied cormorant,China
+633,Green vine snake,Luxembourg
+634,"Shelduck, common",China
+635,Galapagos tortoise,Canada
+636,"Anteater, giant",Netherlands
+637,"Racer, american",Brazil
+638,"Bandicoot, long-nosed",Brazil
+639,Mudskipper (unidentified),Russia
+640,"Heron, green-backed",Russia
+641,Lappet-faced vulture,Brazil
+642,Thomson's gazelle,Ghana
+643,"Glider, sugar",Russia
+644,"Trumpeter, dark-winged",Argentina
+645,Mallard,Philippines
+646,"Cockatoo, slender-billed",China
+647,Leadbeateri's ground hornbill,China
+648,Gaur,Canada
+649,Great white pelican,Micronesia
+650,Red deer,Portugal
+651,"Lizard, mexican beaded",Uruguay
+652,"Badger, eurasian",Indonesia
+653,"Cat, ringtail",Syria
+654,Yellow-throated sandgrouse,Brazil
+655,"Monkey, rhesus",Indonesia
+656,Eagle owl (unidentified),Nigeria
+657,"Lion, australian sea",Panama
+658,Common zebra,Yemen
+659,Woylie,Brazil
+660,Waved albatross,Nigeria
+661,Common ringtail,Philippines
+662,"Puffin, horned",Argentina
+663,"Falcon, peregrine",Thailand
+664,"Turtle, eastern box",Indonesia
+665,"Whale, southern right",Philippines
+666,"Bandicoot, southern brown",Ukraine
+667,"Phalarope, red-necked",Armenia
+668,White-fronted bee-eater,Croatia
+669,"Pigeon, feral rock",Indonesia
+670,Eastern cottontail rabbit,Russia
+671,"Snake, eastern indigo",Indonesia
+672,"Wallaby, agile",Indonesia
+673,Brolga crane,Australia
+674,Vine snake (unidentified),Pakistan
+675,"Cockatoo, roseate",Philippines
+676,Crab-eating fox,Brazil
+677,Downy woodpecker,France
+678,Hippopotamus,France
+679,"Armadillo, nine-banded",Ukraine
+680,Monitor lizard (unidentified),Russia
+681,Bontebok,Indonesia
+682,"Hartebeest, coke's",Argentina
+683,River wallaby,Indonesia
+684,Red lava crab,Indonesia
+685,Four-striped grass mouse,Canada
+686,Brown hyena,Portugal
+687,White-lipped peccary,Czech Republic
+688,"Plover, three-banded",Indonesia
+689,Black curlew,China
+690,Ring-tailed lemur,Russia
+691,Komodo dragon,Indonesia
+692,"Sheep, stone",Indonesia
+693,"Toucan, red-billed",China
+694,"Vulture, bengal",China
+695,Grey phalarope,Slovenia
+696,Banded mongoose,Guinea
+697,White-necked raven,Sweden
+698,"Lion, african",Tanzania
+699,"Capuchin, white-fronted",Portugal
+700,Black-capped chickadee,Myanmar
+701,"Eland, common",Paraguay
+702,African red-eyed bulbul,China
+703,"Spider, wolf",China
+704,Swallow-tail gull,Canada
+705,White-cheeked pintail,Tanzania
+706,Madagascar fruit bat,China
+707,"Bear, polar",Russia
+708,"Swan, trumpeter",Indonesia
+709,"Bird, red-billed tropic",Russia
+710,"Fox, pampa gray",Brazil
+711,White-faced tree rat,Brazil
+712,Common turkey,Brazil
+713,Serval,Philippines
+714,"Dolphin, common",Portugal
+715,Verreaux's sifaka,China
+716,Red-necked wallaby,Indonesia
+717,Purple grenadier,Colombia
+718,Eastern box turtle,Ethiopia
+719,Galapagos mockingbird,Indonesia
+720,Thirteen-lined squirrel,France
+721,Brazilian otter,Czech Republic
+722,Jabiru stork,Russia
+723,Southern boubou,China
+724,"Lion, mountain",Tajikistan
+725,Common raccoon,Mexico
+726,Grey heron,Philippines
+727,Lilac-breasted roller,Sweden
+728,"Sparrow, rufous-collared",South Africa
+729,Mule deer,China
+730,"Polecat, african",Lithuania
+731,"Roadrunner, greater",Czech Republic
+732,Yellow-headed caracara,China
+733,Tiger cat,Chad
+734,"Dove, emerald-spotted wood",Philippines
+735,Common duiker,China
+736,"Rabbit, eastern cottontail",China
+737,Blue duck,China
+738,Sarus crane,Indonesia
+739,Grey fox,Indonesia
+740,"Squirrel, indian giant",Philippines
+741,Musk ox,El Salvador
+742,"Bandicoot, southern brown",China
+743,"Bear, polar",Russia
+744,European spoonbill,China
+745,Ferruginous hawk,Turkmenistan
+746,Ibex,Mexico
+747,American bison,China
+748,Savannah deer,China
+749,Netted rock dragon,Portugal
+750,Brush-tailed bettong,South Africa
+751,"Baboon, chacma",Morocco
+752,"Whale, killer",Philippines
+753,Salmon pink bird eater tarantula,Norway
+754,Short-nosed bandicoot,China
+755,Long-billed cockatoo,Philippines
+756,Turtle (unidentified),Cuba
+757,Western patch-nosed snake,Poland
+758,Two-banded monitor,Ivory Coast
+759,"Wildebeest, blue",Pakistan
+760,"Robin, white-throated",Sweden
+761,Greater flamingo,Ukraine
+762,Brazilian tapir,China
+763,American racer,Latvia
+764,Southern tamandua,Malaysia
+765,White-necked stork,Colombia
+766,"Bat, madagascar fruit",Honduras
+767,Desert kangaroo rat,Russia
+768,American bighorn sheep,Poland
+769,"Spider, wolf",Sweden
+770,"Siskin, pine",Sweden
+771,"Phalarope, red-necked",Chile
+772,Egyptian cobra,Brazil
+773,"Wolf, timber",Russia
+774,"Vulture, turkey",Brazil
+775,"Bulbul, black-fronted",Czech Republic
+776,"Monkey, rhesus",Indonesia
+777,Silver gull,China
+778,"Goldeneye, common",Portugal
+779,American crow,China
+780,White-browed sparrow weaver,Argentina
+781,"Crane, brolga",China
+782,"Lechwe, kafue flats",France
+783,Wolf spider,Croatia
+784,"Lorikeet, scaly-breasted",Russia
+785,Grey fox,Paraguay
+786,"Oryx, beisa",Indonesia
+787,Bald eagle,Nigeria
+788,American badger,France
+789,"Roadrunner, greater",Sweden
+790,"Bat, little brown",East Timor
+791,Indian star tortoise,Colombia
+792,Mocking cliffchat,Sweden
+793,Crab (unidentified),Brazil
+794,"Monitor, white-throated",Portugal
+795,Richardson's ground squirrel,Syria
+796,"Stork, yellow-billed",Philippines
+797,Australian pelican,Peru
+798,"Monitor, water",Lithuania
+799,"Waterbuck, defassa",China
+800,Cheetah,Poland
+801,Yellow-necked spurfowl,Nigeria
+802,Great cormorant,Albania
+803,North American river otter,France
+804,"Penguin, fairy",Russia
+805,"Dik, kirk's dik",Portugal
+806,Chameleon (unidentified),Honduras
+807,Bengal vulture,South Korea
+808,"Jaeger, long-tailed",China
+809,"Wallaby, river",Czech Republic
+810,Brown antechinus,Philippines
+811,"Spider, wolf",China
+812,Common dolphin,Croatia
+813,Sulfur-crested cockatoo,North Korea
+814,Hanuman langur,Indonesia
+815,Numbat,Indonesia
+816,Savanna fox,Indonesia
+817,King cormorant,China
+818,"Monkey, rhesus",Benin
+819,"Goose, cereopsis",Vietnam
+820,Asian openbill,Ukraine
+821,"Deer, savannah",Poland
+822,Water moccasin,Indonesia
+823,"Skua, long-tailed",China
+824,"Bandicoot, long-nosed",Indonesia
+825,Collared lizard,Ukraine
+826,"Plover, three-banded",Argentina
+827,Green-winged macaw,Philippines
+828,Thomson's gazelle,Japan
+829,Hoary marmot,France
+830,Hoffman's sloth,Indonesia
+831,"Monkey, bleeding heart",Indonesia
+832,White rhinoceros,Georgia
+833,"Otter, african clawless",Russia
+834,Sage grouse,Indonesia
+835,Cape fox,Philippines
+836,"Pintail, bahama",Philippines
+837,Green vine snake,Indonesia
+838,Common ringtail,China
+839,"Boa, columbian rainbow",Bulgaria
+840,Galapagos hawk,China
+841,Blacksmith plover,Uzbekistan
+842,Roan antelope,Nigeria
+843,"Vulture, griffon",China
+844,Agile wallaby,Afghanistan
+845,Carpet snake,Bosnia and Herzegovina
+846,Royal tern,Russia
+847,Gambel's quail,United States
+848,Crown of thorns starfish,Greece
+849,Carmine bee-eater,Greece
+850,"Sheep, red",Czech Republic
+851,Green-winged trumpeter,Morocco
+852,"Macaque, bonnet",Sweden
+853,Red deer,Portugal
+854,"Dragon, netted rock",France
+855,Smith's bush squirrel,Russia
+856,"Snake, racer",China
+857,"Lizard, mexican beaded",Nigeria
+858,"Zorro, common",Australia
+859,Sockeye salmon,Morocco
+860,"Cat, native",Czech Republic
+861,"Openbill, asian",China
+862,Yellow-throated sandgrouse,China
+863,"Cobra, egyptian",Bangladesh
+864,Snow goose,Russia
+865,Greater adjutant stork,China
+866,Blue racer,Indonesia
+867,Red-tailed cockatoo,Panama
+868,Two-toed sloth,Germany
+869,Southern elephant seal,Tanzania
+870,Blue-faced booby,China
+871,"Baboon, olive",Indonesia
+872,"Macaque, bonnet",Malaysia
+873,Eastern diamondback rattlesnake,China
+874,"Stork, european",Bangladesh
+875,"Flamingo, greater",Marshall Islands
+876,"Magpie, australian",China
+877,Bobcat,China
+878,Red phalarope,Yemen
+879,Eurasian badger,Kazakhstan
+880,"Plover, three-banded",China
+881,Common ringtail,Luxembourg
+882,"Gull, pacific",Taiwan
+883,European shelduck,Poland
+884,"Eagle, long-crested hawk",Greece
+885,Russian dragonfly,Poland
+886,"Toucan, white-throated",Sweden
+887,"Admiral, indian red",Czech Republic
+888,"Fox, savanna",Peru
+889,Common duiker,United States
+890,"Pelican, eastern white",Yemen
+891,Eastern diamondback rattlesnake,United States
+892,"Goose, spur-winged",Azerbaijan
+893,Coqui partridge,Japan
+894,"Baboon, yellow",United Kingdom
+895,"Beaver, north american",Brazil
+896,"Seal, southern elephant",Ukraine
+897,"Weaver, white-browed sparrow",South Korea
+898,Hoary marmot,China
+899,Swallow-tail gull,France
+900,Common turkey,Central African Republic
+901,Crab (unidentified),Belarus
+902,Bush dog,Vietnam
+903,Sidewinder,Reunion
+904,Little heron,Greece
+905,"Ox, musk",Philippines
+906,"Phalarope, red",Mexico
+907,Banded mongoose,China
+908,Burmese brown mountain tortoise,Portugal
+909,Little cormorant,France
+910,Asian water dragon,China
+911,Common eland,Indonesia
+912,"Cat, tiger",Mexico
+913,Horned puffin,China
+914,Common eland,China
+915,Brolga crane,Serbia
+916,Denham's bustard,Brazil
+917,Laughing kookaburra,Indonesia
+918,Fat-tailed dunnart,Greece
+919,Small Indian mongoose,Indonesia
+920,"Stork, saddle-billed",Portugal
+921,"Snake, tiger",Yemen
+922,"Quail, gambel's",Indonesia
+923,King cormorant,Indonesia
+924,"Lion, african",Indonesia
+925,Blue racer,China
+926,Common langur,United States
+927,"Turtle, long-necked",Paraguay
+928,"Porcupine, crested",Kuwait
+929,"Parakeet, rose-ringed",Egypt
+930,Green vine snake,China
+931,Red hartebeest,France
+932,Crested barbet,China
+933,Red-billed hornbill,China
+934,Ocelot,Indonesia
+935,"Dolphin, common",Canada
+936,"Cliffchat, mocking",Syria
+937,Old world fruit bat (unidentified),South Africa
+938,"Squirrel, richardson's ground",China
+939,"Turaco, violet-crested",Bahamas
+940,Kafue flats lechwe,Portugal
+941,"Grouse, greater sage",Cambodia
+942,Blue shark,Argentina
+943,"Bulbul, black-fronted",Italy
+944,"Cormorant, great",Denmark
+945,"Lion, asian",Vietnam
+946,"Godwit, hudsonian",France
+947,Black and white colobus,Peru
+948,"Squirrel, richardson's ground",Indonesia
+949,Common dolphin,China
+950,"Rat, arboral spiny",Yemen
+951,Uinta ground squirrel,Sweden
+952,Rufous tree pie,Peru
+953,"Turtle, snake-necked",Australia
+954,"Racer, american",Thailand
+955,Nilgai,Russia
+956,Palm squirrel,United States
+957,Red howler monkey,China
+958,"Raven, cape",Poland
+959,"Woodpecker, downy",China
+960,"Squirrel, indian giant",Brazil
+961,"Shelduck, common",Serbia
+962,"Otter, african clawless",Thailand
+963,Yellow-billed hornbill,Indonesia
+964,Collared lemming,Indonesia
+965,"Bird, bare-faced go away",Russia
+966,"Sandgrouse, yellow-throated",United States
+967,Common turkey,Canada
+968,Yellow-necked spurfowl,Portugal
+969,"Otter, african clawless",Sweden
+970,Swallow-tail gull,Russia
+971,Nelson ground squirrel,Brazil
+972,Collared lemming,China
+973,Mexican wolf,Czech Republic
+974,"Sifaka, verreaux's",Indonesia
+975,Python (unidentified),Brazil
+976,Bald eagle,Tokelau
+977,Indian giant squirrel,Indonesia
+978,Common rhea,Laos
+979,Darwin ground finch (unidentified),Ukraine
+980,Pine squirrel,Kazakhstan
+981,"Otter, oriental short-clawed",Portugal
+982,Bennett's wallaby,Indonesia
+983,Grey heron,China
+984,"Colobus, black and white",Canada
+985,"Waterbuck, defassa",Malaysia
+986,"Colobus, magistrate black",Brazil
+987,"Ass, asiatic wild",Cuba
+988,"Gecko, bent-toed",Philippines
+989,"Avocet, pied",Russia
+990,Azara's zorro,Tunisia
+991,"Macaque, bonnet",Sweden
+992,"Turkey, australian brush",China
+993,Two-toed tree sloth,China
+994,Springhare,Azerbaijan
+995,Eagle owl (unidentified),Argentina
+996,Lesser flamingo,Philippines
+997,"Sparrow, rufous-collared",China
+998,Lava gull,Sudan
+999,"Goldeneye, barrows",Vietnam
+1000,Great white pelican,Indonesia
