@@ -1,7 +1,7 @@
-numpy
+numpy==1.12.1
 scipy
-matplotlib
+matplotlib==2.0.0
 jupyter
-sqlalchemy
+sqlalchemy==1.1.13
 psycopg2
 pandas==0.20.3
