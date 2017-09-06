@@ -1,0 +1,1001 @@
+IDEstate,Category,Area,City,Province,Rooms,Bedrooms,Garage,Meters
+1,etiam,tempor,Lexington,Kentucky,43,2,false,25.4
+2,hendrerit,lobortis,New York City,New York,90,96,true,96.9
+3,sociis,consequat,Houston,Texas,41,14,false,20.3
+4,accumsan,risus,Sacramento,California,96,2,false,73.7
+5,ligula,quam,New York City,New York,65,67,true,35.1
+6,congue,vel,Montgomery,Alabama,51,12,false,97.9
+7,luctus,lectus,Watertown,Massachusetts,82,87,false,54.1
+8,sem,ut,Chicago,Illinois,76,87,true,90.6
+9,pretium,turpis,Austin,Texas,59,55,true,52.9
+10,leo,at,Nashville,Tennessee,92,90,true,12.3
+11,vestibulum,consequat,Norwalk,Connecticut,8,52,false,97.2
+12,porttitor,proin,Whittier,California,98,8,false,50.0
+13,iaculis,vestibulum,Baltimore,Maryland,1,56,false,72.4
+14,id,turpis,Shreveport,Louisiana,91,56,true,84.2
+15,ut,volutpat,Atlanta,Georgia,8,36,false,25.0
+16,sed,nec,Jacksonville,Florida,88,83,true,21.9
+17,etiam,cras,Lake Worth,Florida,68,7,true,29.2
+18,sagittis,tempor,Minneapolis,Minnesota,38,96,false,3.0
+19,in,sit,Wilmington,Delaware,73,73,true,45.1
+20,nascetur,lectus,Birmingham,Alabama,26,85,false,43.7
+21,posuere,morbi,Buffalo,New York,3,16,false,3.9
+22,quisque,condimentum,Tampa,Florida,84,28,true,74.7
+23,sollicitudin,ligula,New Orleans,Louisiana,1,89,false,70.0
+24,elit,nunc,Evansville,Indiana,3,87,true,58.3
+25,metus,a,Hollywood,Florida,78,27,true,44.5
+26,magna,turpis,Atlanta,Georgia,95,97,true,54.1
+27,fringilla,in,Atlanta,Georgia,26,91,false,40.9
+28,posuere,donec,Houston,Texas,38,37,false,63.3
+29,quis,mauris,Atlanta,Georgia,24,65,false,96.3
+30,in,erat,Sacramento,California,79,71,true,76.2
+31,nisl,pulvinar,San Antonio,Texas,57,48,true,38.9
+32,pellentesque,aliquam,Providence,Rhode Island,18,100,true,67.8
+33,luctus,condimentum,Amarillo,Texas,6,3,false,21.0
+34,integer,massa,Salt Lake City,Utah,53,14,false,35.9
+35,est,massa,Texarkana,Texas,61,6,true,91.0
+36,neque,habitasse,Buffalo,New York,39,51,false,73.9
+37,tellus,sapien,Charleston,West Virginia,58,28,true,31.2
+38,etiam,rhoncus,Orlando,Florida,48,69,true,39.2
+39,arcu,eget,Appleton,Wisconsin,64,52,false,87.9
+40,malesuada,pulvinar,Washington,District of Columbia,37,93,false,17.8
+41,eros,magna,Seattle,Washington,64,19,false,19.8
+42,augue,ligula,Toledo,Ohio,91,37,false,67.6
+43,molestie,ultrices,Norfolk,Virginia,13,42,true,95.8
+44,luctus,lobortis,Pompano Beach,Florida,57,30,true,24.3
+45,luctus,ultricies,Torrance,California,60,82,true,71.2
+46,et,a,White Plains,New York,72,81,false,62.3
+47,nunc,ut,Fort Myers,Florida,35,61,false,69.3
+48,volutpat,faucibus,San Jose,California,47,91,false,76.1
+49,id,blandit,Bakersfield,California,61,40,true,59.1
+50,primis,donec,Mount Vernon,New York,59,19,false,50.5
+51,et,sodales,Charlotte,North Carolina,85,44,true,71.8
+52,natoque,varius,Houston,Texas,86,42,false,72.8
+53,cum,eu,Reno,Nevada,28,90,true,22.2
+54,nec,lectus,Bakersfield,California,27,44,true,12.4
+55,augue,suspendisse,Houston,Texas,23,54,false,26.7
+56,donec,justo,Orange,California,84,65,false,15.5
+57,maecenas,posuere,Saint Louis,Missouri,18,64,false,25.1
+58,justo,lectus,Austin,Texas,48,11,false,85.9
+59,sagittis,bibendum,Henderson,Nevada,20,36,true,54.5
+60,lacus,metus,Oklahoma City,Oklahoma,90,93,true,77.6
+61,congue,et,El Paso,Texas,3,99,false,78.0
+62,nulla,ut,Reston,Virginia,95,74,false,87.1
+63,sit,ultrices,Las Vegas,Nevada,60,10,false,39.5
+64,congue,eget,Hartford,Connecticut,75,24,false,71.2
+65,pellentesque,ante,Little Rock,Arkansas,91,18,false,53.0
+66,quam,pede,Englewood,Colorado,11,6,false,81.1
+67,potenti,nulla,Minneapolis,Minnesota,66,53,false,55.4
+68,ac,consectetuer,Vienna,Virginia,96,51,true,24.4
+69,interdum,rutrum,Savannah,Georgia,29,66,false,89.5
+70,aenean,condimentum,Los Angeles,California,79,5,false,55.1
+71,id,neque,Saint Paul,Minnesota,98,6,false,94.5
+72,amet,est,Columbus,Ohio,68,81,true,10.6
+73,maecenas,vel,Erie,Pennsylvania,80,6,true,72.7
+74,ante,nulla,Baltimore,Maryland,34,60,false,25.6
+75,proin,sociis,Vienna,Virginia,74,23,false,11.3
+76,odio,quisque,Pittsburgh,Pennsylvania,85,86,false,10.6
+77,metus,sollicitudin,Maple Plain,Minnesota,34,53,false,2.6
+78,sit,sem,Pocatello,Idaho,65,71,false,94.3
+79,malesuada,nunc,San Bernardino,California,71,65,false,8.2
+80,nec,nulla,New York City,New York,92,35,false,14.7
+81,et,arcu,San Antonio,Texas,23,61,true,97.4
+82,mauris,luctus,Henderson,Nevada,100,78,false,72.6
+83,eleifend,tempus,Miami,Florida,82,89,true,61.7
+84,vel,sagittis,Lansing,Michigan,15,12,false,7.7
+85,hac,sit,Columbus,Ohio,62,41,true,73.9
+86,ac,suscipit,El Paso,Texas,47,74,false,37.1
+87,neque,interdum,New York City,New York,93,32,false,18.5
+88,sed,ac,Houston,Texas,14,96,true,11.0
+89,quisque,amet,Shawnee Mission,Kansas,46,24,true,96.9
+90,est,natoque,Washington,District of Columbia,25,80,false,62.3
+91,justo,platea,Portsmouth,Virginia,95,42,false,35.2
+92,blandit,duis,Jacksonville,Florida,12,96,false,58.4
+93,congue,gravida,Baltimore,Maryland,50,79,true,97.7
+94,amet,massa,Albany,New York,42,16,false,58.3
+95,vivamus,sed,Saint Cloud,Minnesota,77,81,true,9.3
+96,nisi,turpis,El Paso,Texas,59,31,true,35.6
+97,quisque,pede,Riverside,California,15,27,false,27.1
+98,dolor,aliquam,Tampa,Florida,37,25,false,47.4
+99,quis,in,San Jose,California,93,38,true,38.3
+100,elementum,lectus,Fullerton,California,72,2,true,3.3
+101,aliquam,ridiculus,Lexington,Kentucky,5,4,false,30.9
+102,risus,vitae,Shawnee Mission,Kansas,88,15,false,95.2
+103,ultrices,mattis,Bradenton,Florida,40,8,false,49.9
+104,tristique,etiam,Fort Worth,Texas,81,22,true,93.0
+105,at,id,Jacksonville,Florida,77,35,false,54.7
+106,imperdiet,ridiculus,Phoenix,Arizona,75,46,true,16.0
+107,ipsum,quisque,San Antonio,Texas,26,44,false,92.2
+108,tellus,bibendum,Fresno,California,77,24,false,95.7
+109,justo,posuere,Chesapeake,Virginia,97,26,false,36.6
+110,convallis,accumsan,Washington,District of Columbia,35,74,false,44.8
+111,vel,vivamus,Rochester,New York,54,95,false,39.3
+112,donec,eu,Washington,District of Columbia,73,76,true,78.8
+113,varius,ultrices,Englewood,Colorado,60,19,false,71.8
+114,tincidunt,quisque,Schenectady,New York,84,92,true,70.4
+115,quam,ultrices,Kansas City,Missouri,50,57,false,72.2
+116,lacinia,non,Corpus Christi,Texas,79,3,true,37.3
+117,purus,lectus,Mansfield,Ohio,40,93,true,3.0
+118,libero,turpis,Jamaica,New York,95,87,false,22.2
+119,dapibus,donec,Ventura,California,76,30,true,66.2
+120,fusce,et,Charlotte,North Carolina,68,7,false,31.1
+121,morbi,nam,Norfolk,Virginia,22,78,false,87.7
+122,et,hac,Kissimmee,Florida,42,85,true,52.3
+123,amet,platea,Columbia,South Carolina,18,30,true,10.3
+124,elit,a,Huntington,West Virginia,15,67,true,18.0
+125,at,orci,Toledo,Ohio,44,1,false,44.4
+126,mauris,justo,Pittsburgh,Pennsylvania,72,4,true,2.7
+127,pellentesque,eu,Oklahoma City,Oklahoma,74,64,false,84.7
+128,quam,mauris,Denver,Colorado,59,77,false,10.9
+129,aliquet,lacus,Pensacola,Florida,57,42,true,32.5
+130,consequat,odio,Wilkes Barre,Pennsylvania,55,99,true,14.9
+131,platea,ut,Louisville,Kentucky,22,7,true,36.8
+132,enim,donec,Chicago,Illinois,21,3,true,37.2
+133,sem,duis,Bethesda,Maryland,65,44,true,64.9
+134,feugiat,elit,Saint Petersburg,Florida,88,89,false,57.4
+135,condimentum,eget,Chesapeake,Virginia,54,99,true,24.4
+136,in,nulla,Honolulu,Hawaii,100,95,true,72.8
+137,nulla,sollicitudin,Denver,Colorado,46,39,false,65.3
+138,bibendum,lobortis,Yakima,Washington,40,90,true,76.7
+139,ultrices,eleifend,Seattle,Washington,99,12,true,68.4
+140,sit,donec,Cincinnati,Ohio,24,52,false,69.4
+141,ultrices,orci,Fort Collins,Colorado,91,47,false,59.9
+142,vivamus,sociis,Oklahoma City,Oklahoma,70,79,true,46.1
+143,nisl,consequat,Des Moines,Iowa,62,40,false,42.1
+144,volutpat,integer,Springfield,Illinois,78,2,false,64.2
+145,in,porta,Dallas,Texas,53,82,true,46.5
+146,accumsan,justo,San Bernardino,California,27,96,true,66.4
+147,lobortis,eros,Missoula,Montana,81,13,false,9.6
+148,luctus,ut,Houston,Texas,61,91,false,3.0
+149,nisi,convallis,San Francisco,California,44,4,false,44.1
+150,hac,quis,Norfolk,Virginia,46,72,false,61.5
+151,curabitur,lacinia,Huntsville,Texas,9,16,false,64.7
+152,lacinia,luctus,Richmond,Virginia,24,55,false,12.1
+153,dapibus,erat,Louisville,Kentucky,55,66,false,12.3
+154,orci,quam,Syracuse,New York,22,74,false,14.4
+155,non,eu,Saint Paul,Minnesota,50,35,false,51.5
+156,ipsum,fusce,Dayton,Ohio,53,3,true,49.9
+157,rhoncus,in,Santa Ana,California,100,18,false,23.6
+158,sapien,tempus,Flushing,New York,60,49,false,12.2
+159,rhoncus,augue,Boise,Idaho,68,14,true,88.7
+160,neque,tempus,New Orleans,Louisiana,90,52,true,76.2
+161,in,turpis,Spartanburg,South Carolina,29,14,false,71.7
+162,massa,maecenas,Kansas City,Missouri,57,22,false,52.4
+163,a,eget,Panama City,Florida,41,93,false,42.1
+164,sapien,donec,Jackson,Mississippi,86,93,false,45.0
+165,amet,ac,Richmond,Virginia,66,83,false,97.2
+166,ipsum,ut,El Paso,Texas,78,1,false,44.1
+167,pede,ligula,Washington,District of Columbia,59,86,true,8.8
+168,in,at,Billings,Montana,40,11,false,21.6
+169,mi,vitae,Lakeland,Florida,92,77,false,21.7
+170,sapien,morbi,Spring Hill,Florida,19,17,false,90.4
+171,mauris,quam,San Antonio,Texas,22,86,false,32.0
+172,in,morbi,Detroit,Michigan,94,70,true,18.2
+173,id,sagittis,Wichita Falls,Texas,71,43,false,44.3
+174,accumsan,fermentum,Columbus,Ohio,52,16,true,59.5
+175,id,tempus,Pasadena,California,96,100,true,27.6
+176,sit,aliquet,Dallas,Texas,4,93,true,88.9
+177,nisl,erat,Buffalo,New York,27,85,false,81.2
+178,nunc,pretium,Katy,Texas,100,17,false,22.3
+179,diam,nisl,Atlanta,Georgia,10,26,true,17.9
+180,sollicitudin,suspendisse,Los Angeles,California,4,88,false,62.6
+181,cubilia,pede,Lafayette,Indiana,33,42,true,77.9
+182,montes,eget,Los Angeles,California,83,90,false,30.0
+183,ut,proin,Elmira,New York,62,15,false,63.9
+184,donec,at,Grand Rapids,Michigan,6,15,false,61.7
+185,in,nam,Arlington,Texas,2,63,false,47.9
+186,nisi,consequat,Brooklyn,New York,88,99,true,58.5
+187,congue,sapien,Littleton,Colorado,23,81,true,96.1
+188,consequat,tincidunt,Punta Gorda,Florida,10,90,true,43.0
+189,non,tincidunt,Oklahoma City,Oklahoma,15,82,true,61.1
+190,est,malesuada,Washington,District of Columbia,92,93,false,21.2
+191,in,diam,Omaha,Nebraska,34,15,true,50.1
+192,imperdiet,tempus,Tacoma,Washington,76,87,false,77.8
+193,non,aliquet,Kansas City,Missouri,53,44,false,12.7
+194,tellus,vulputate,Hartford,Connecticut,74,61,true,12.5
+195,interdum,nisi,Los Angeles,California,6,52,false,43.0
+196,pede,sed,Louisville,Kentucky,94,16,false,85.1
+197,quis,ac,Naples,Florida,30,10,false,47.9
+198,lorem,luctus,Worcester,Massachusetts,5,75,false,36.8
+199,dui,sed,Seattle,Washington,47,11,true,56.7
+200,quis,diam,Tampa,Florida,29,57,false,62.8
+201,felis,volutpat,Cumming,Georgia,39,47,true,99.2
+202,platea,nisl,Roanoke,Virginia,80,32,true,95.4
+203,semper,ante,San Francisco,California,84,52,false,47.9
+204,aliquam,lacus,Tampa,Florida,55,88,false,14.0
+205,ut,quam,Winston Salem,North Carolina,7,12,false,78.8
+206,sed,congue,Columbia,Missouri,56,14,false,25.5
+207,nibh,tincidunt,Van Nuys,California,19,69,false,18.9
+208,sit,scelerisque,Port Charlotte,Florida,7,24,true,21.9
+209,luctus,eleifend,New Haven,Connecticut,35,24,true,57.1
+210,mus,at,Philadelphia,Pennsylvania,9,16,false,71.0
+211,cursus,nibh,Peoria,Illinois,22,55,true,28.8
+212,natoque,venenatis,Los Angeles,California,96,96,false,88.6
+213,ultrices,dui,Jacksonville,Florida,83,81,true,24.8
+214,platea,sagittis,Duluth,Minnesota,51,30,false,44.3
+215,eu,porttitor,Tampa,Florida,34,5,true,69.2
+216,sit,aliquet,Fullerton,California,39,81,false,77.4
+217,rutrum,erat,Warren,Michigan,73,1,false,5.6
+218,commodo,eget,Van Nuys,California,22,97,true,3.4
+219,eget,interdum,Dallas,Texas,77,54,true,40.9
+220,odio,ultrices,Boston,Massachusetts,29,40,false,77.0
+221,mus,pellentesque,Lexington,Kentucky,19,19,true,78.9
+222,justo,mauris,Fayetteville,North Carolina,60,79,false,50.8
+223,volutpat,sem,Oakland,California,59,3,false,24.7
+224,est,sollicitudin,Jefferson City,Missouri,52,53,false,85.7
+225,ut,et,Laurel,Maryland,98,30,false,94.0
+226,a,nulla,Little Rock,Arkansas,90,10,false,81.9
+227,tortor,vehicula,Denver,Colorado,64,19,false,68.9
+228,laoreet,molestie,Bethesda,Maryland,36,30,true,88.3
+229,dolor,ante,Tulsa,Oklahoma,33,55,false,60.2
+230,ut,lectus,Colorado Springs,Colorado,12,53,false,15.7
+231,tincidunt,augue,Irvine,California,99,46,true,21.6
+232,imperdiet,ante,Pasadena,California,68,79,false,18.8
+233,vel,vivamus,Battle Creek,Michigan,50,27,false,20.2
+234,vitae,proin,San Diego,California,81,50,true,75.3
+235,suscipit,mauris,Los Angeles,California,45,2,false,65.5
+236,amet,magnis,Milwaukee,Wisconsin,18,18,false,54.7
+237,in,non,Washington,District of Columbia,66,93,true,26.6
+238,cursus,integer,Detroit,Michigan,19,49,false,68.0
+239,eu,vulputate,Lafayette,Indiana,37,8,true,37.2
+240,enim,vitae,Saint Louis,Missouri,69,10,true,82.7
+241,et,nunc,Seattle,Washington,36,2,true,45.5
+242,quam,pellentesque,Springfield,Missouri,45,15,true,72.9
+243,placerat,blandit,Buffalo,New York,34,59,true,13.8
+244,morbi,interdum,Charleston,West Virginia,55,76,true,36.2
+245,rhoncus,aenean,Winston Salem,North Carolina,50,86,true,47.2
+246,etiam,faucibus,Long Beach,California,19,74,false,29.6
+247,mauris,felis,Tampa,Florida,56,53,true,57.2
+248,nisl,nunc,Vancouver,Washington,39,96,false,82.6
+249,orci,enim,Milwaukee,Wisconsin,90,96,false,70.2
+250,vivamus,libero,Valley Forge,Pennsylvania,100,79,false,65.8
+251,libero,nibh,Cleveland,Ohio,65,20,true,33.1
+252,nulla,ultrices,Modesto,California,1,57,false,85.1
+253,sollicitudin,natoque,Clearwater,Florida,34,39,true,5.2
+254,congue,est,Charlotte,North Carolina,17,97,true,41.5
+255,cras,vel,Saint Louis,Missouri,12,8,false,81.8
+256,eleifend,eu,Fairfield,Connecticut,70,42,true,67.8
+257,mollis,ultrices,Hartford,Connecticut,44,61,true,38.4
+258,sapien,posuere,Cincinnati,Ohio,77,56,true,71.1
+259,libero,quam,Elizabeth,New Jersey,90,89,true,86.1
+260,pede,posuere,Corpus Christi,Texas,67,20,false,13.0
+261,tristique,integer,Woburn,Massachusetts,62,67,false,85.0
+262,ultrices,sapien,Berkeley,California,9,65,true,86.7
+263,sed,sollicitudin,Cape Coral,Florida,97,81,true,37.7
+264,felis,nisi,San Antonio,Texas,93,60,true,98.7
+265,sit,potenti,Fort Lauderdale,Florida,28,53,true,31.5
+266,rutrum,ultrices,Elizabeth,New Jersey,94,10,false,47.3
+267,nullam,penatibus,Brooklyn,New York,19,10,false,52.1
+268,mauris,nullam,Gatesville,Texas,87,99,true,52.6
+269,eget,nibh,Chicago,Illinois,86,24,true,30.7
+270,amet,vulputate,Shawnee Mission,Kansas,70,55,true,91.3
+271,odio,nec,Phoenix,Arizona,88,3,true,14.4
+272,eu,nam,Louisville,Kentucky,27,70,false,63.2
+273,blandit,enim,Colorado Springs,Colorado,38,2,true,38.6
+274,suspendisse,vitae,Las Vegas,Nevada,23,33,true,58.8
+275,suscipit,ante,San Jose,California,72,42,false,77.6
+276,consequat,quam,Paterson,New Jersey,52,87,true,15.1
+277,erat,a,Des Moines,Iowa,11,4,false,78.1
+278,erat,vitae,Tyler,Texas,9,90,false,28.5
+279,eu,mauris,Grand Rapids,Michigan,100,5,false,27.0
+280,diam,turpis,Phoenix,Arizona,71,84,false,28.0
+281,platea,lectus,Fort Wayne,Indiana,87,78,true,17.4
+282,blandit,suscipit,Gainesville,Florida,97,20,true,38.2
+283,rutrum,ligula,Erie,Pennsylvania,51,16,true,52.3
+284,metus,aenean,Jefferson City,Missouri,72,4,false,9.8
+285,nunc,interdum,Las Vegas,Nevada,23,45,true,72.5
+286,lacinia,nisl,Mobile,Alabama,38,10,true,34.0
+287,sapien,in,Gary,Indiana,96,90,true,40.5
+288,nulla,tincidunt,Brooklyn,New York,74,7,true,58.7
+289,consequat,in,Charleston,South Carolina,81,100,true,93.1
+290,aenean,suscipit,Hot Springs National Park,Arkansas,10,4,true,21.6
+291,pede,vulputate,Denver,Colorado,60,51,true,88.3
+292,in,nam,Washington,District of Columbia,18,46,false,84.5
+293,sed,lacus,Longview,Texas,46,34,true,44.2
+294,quis,aliquam,Hamilton,Ohio,67,91,false,93.8
+295,euismod,ut,Saint Paul,Minnesota,27,12,false,95.3
+296,erat,duis,Arlington,Virginia,78,19,false,19.3
+297,mus,quisque,Las Vegas,Nevada,89,3,false,64.3
+298,vestibulum,quam,Fargo,North Dakota,49,63,false,21.3
+299,sollicitudin,mauris,Milwaukee,Wisconsin,76,2,true,30.2
+300,nisl,nulla,Milwaukee,Wisconsin,63,94,true,15.4
+301,ut,donec,Anchorage,Alaska,56,62,false,8.0
+302,molestie,tincidunt,Baton Rouge,Louisiana,83,9,true,51.2
+303,enim,sem,Bloomington,Illinois,16,43,true,39.0
+304,massa,orci,Long Beach,California,28,50,false,55.3
+305,integer,amet,Houston,Texas,74,45,false,24.5
+306,eros,ac,Mount Vernon,New York,3,51,true,46.4
+307,natoque,interdum,Seattle,Washington,42,21,true,5.0
+308,interdum,rutrum,El Paso,Texas,48,5,false,9.5
+309,curae,justo,Atlanta,Georgia,63,36,false,19.9
+310,libero,ante,Amarillo,Texas,93,47,false,31.3
+311,tristique,massa,Miami,Florida,5,78,false,2.8
+312,natoque,massa,Salt Lake City,Utah,71,39,false,78.3
+313,in,eros,Rochester,New York,49,45,false,85.1
+314,nullam,luctus,Washington,District of Columbia,70,82,true,20.4
+315,dis,ut,Clearwater,Florida,46,59,false,80.0
+316,at,in,Anniston,Alabama,30,45,false,89.1
+317,in,faucibus,Albuquerque,New Mexico,47,28,false,42.8
+318,elementum,vestibulum,Mountain View,California,80,16,true,41.3
+319,vestibulum,primis,Tulsa,Oklahoma,45,84,false,71.7
+320,luctus,vestibulum,Saint Augustine,Florida,92,63,false,59.4
+321,eu,tortor,Dallas,Texas,64,69,true,2.0
+322,non,porttitor,Anchorage,Alaska,46,16,true,23.9
+323,hac,ultrices,Pittsburgh,Pennsylvania,6,69,true,64.6
+324,volutpat,nam,Conroe,Texas,3,85,false,31.5
+325,cursus,rutrum,New Orleans,Louisiana,99,15,true,33.2
+326,sapien,duis,Greensboro,North Carolina,41,30,true,84.8
+327,venenatis,pretium,Philadelphia,Pennsylvania,18,12,true,87.5
+328,non,eget,Columbus,Ohio,62,78,true,10.5
+329,libero,ultrices,Fairfield,Connecticut,77,88,false,32.9
+330,porta,nibh,Alexandria,Louisiana,55,57,false,86.6
+331,donec,fusce,Chicago,Illinois,55,89,true,19.9
+332,lectus,euismod,Springfield,Illinois,20,25,true,5.4
+333,sed,risus,Greenville,South Carolina,37,98,true,49.4
+334,cursus,erat,Clearwater,Florida,42,95,true,100.0
+335,purus,amet,Austin,Texas,3,63,true,64.9
+336,massa,eget,Carson City,Nevada,88,91,true,49.2
+337,dictumst,ac,Trenton,New Jersey,33,18,true,84.0
+338,id,viverra,Bloomington,Illinois,7,67,true,65.8
+339,viverra,odio,Oklahoma City,Oklahoma,76,78,false,31.3
+340,ut,lobortis,Bonita Springs,Florida,15,2,true,76.7
+341,nibh,nullam,Pittsburgh,Pennsylvania,87,36,true,83.4
+342,sodales,mi,Dallas,Texas,54,5,false,48.4
+343,diam,libero,Rochester,New York,97,1,true,16.6
+344,magna,nulla,Arlington,Virginia,15,6,true,75.3
+345,venenatis,vitae,Pomona,California,86,1,false,56.9
+346,porttitor,nulla,Nashville,Tennessee,47,21,false,26.1
+347,pede,sociis,Buffalo,New York,42,13,true,62.1
+348,integer,elit,Cincinnati,Ohio,5,40,true,80.7
+349,lorem,vestibulum,Los Angeles,California,69,11,false,75.6
+350,at,euismod,Lake Worth,Florida,61,62,false,94.9
+351,consequat,amet,Panama City,Florida,93,98,false,93.9
+352,nibh,nulla,San Antonio,Texas,59,41,false,72.7
+353,ut,sapien,Los Angeles,California,97,12,false,83.7
+354,bibendum,mauris,New York City,New York,61,60,false,31.7
+355,cras,semper,Pasadena,Texas,52,46,false,19.5
+356,at,sed,Orange,California,72,70,false,49.0
+357,dapibus,sapien,College Station,Texas,23,66,false,45.6
+358,dapibus,mauris,Pueblo,Colorado,48,96,false,86.5
+359,nam,dui,Peoria,Illinois,10,7,false,57.5
+360,lorem,in,Orlando,Florida,69,99,true,72.8
+361,malesuada,quam,New York City,New York,11,48,false,23.2
+362,vulputate,ultrices,Richmond,Virginia,20,62,false,48.1
+363,vel,urna,Fresno,California,99,36,false,73.5
+364,proin,tempor,Shreveport,Louisiana,11,71,false,7.9
+365,eros,orci,Houston,Texas,1,87,false,47.4
+366,interdum,nullam,Silver Spring,Maryland,14,25,true,71.5
+367,vestibulum,lacinia,Littleton,Colorado,39,77,false,20.8
+368,suspendisse,est,Columbus,Mississippi,22,85,false,13.7
+369,pulvinar,est,Columbus,Ohio,82,54,true,24.2
+370,massa,sem,Lafayette,Indiana,66,12,false,68.6
+371,sit,elementum,Richmond,Virginia,24,55,false,57.5
+372,pulvinar,nisi,Chattanooga,Tennessee,44,56,true,68.0
+373,praesent,libero,Anaheim,California,74,57,true,54.5
+374,feugiat,cras,Bethesda,Maryland,95,56,false,33.4
+375,dapibus,ut,Woburn,Massachusetts,97,76,false,11.4
+376,non,eleifend,Lexington,Kentucky,48,46,false,26.0
+377,ac,hac,Redwood City,California,53,90,true,75.4
+378,felis,imperdiet,Cincinnati,Ohio,92,57,false,33.3
+379,risus,vestibulum,Topeka,Kansas,10,54,true,58.8
+380,egestas,penatibus,Cincinnati,Ohio,50,11,false,8.8
+381,neque,placerat,New York City,New York,25,31,true,47.0
+382,interdum,pellentesque,Richmond,Virginia,30,70,false,62.5
+383,faucibus,in,San Mateo,California,81,21,true,87.1
+384,luctus,vestibulum,Miami,Florida,19,71,true,58.6
+385,lorem,felis,Cincinnati,Ohio,69,69,false,3.5
+386,diam,nunc,Cincinnati,Ohio,28,33,true,61.3
+387,faucibus,volutpat,Akron,Ohio,89,13,false,61.8
+388,integer,in,Naples,Florida,78,42,true,74.6
+389,orci,nullam,Glendale,Arizona,51,6,true,22.5
+390,erat,sem,Spokane,Washington,62,2,true,89.2
+391,suscipit,donec,Fresno,California,89,23,false,66.6
+392,sapien,ut,Philadelphia,Pennsylvania,59,85,true,45.8
+393,scelerisque,egestas,Fort Worth,Texas,3,25,true,83.0
+394,mi,in,Houston,Texas,75,38,true,79.3
+395,lobortis,nunc,Flushing,New York,38,64,true,73.4
+396,neque,lectus,West Palm Beach,Florida,98,12,false,71.5
+397,sem,curabitur,Alexandria,Virginia,26,30,false,28.0
+398,pretium,tincidunt,Grand Rapids,Michigan,38,86,false,64.5
+399,bibendum,ante,Grand Junction,Colorado,93,40,true,78.4
+400,in,vitae,Houston,Texas,12,86,true,98.3
+401,eros,lorem,Louisville,Kentucky,11,85,true,91.0
+402,ut,dapibus,San Francisco,California,63,2,false,73.1
+403,erat,faucibus,Saint Petersburg,Florida,93,47,false,39.0
+404,augue,augue,Louisville,Kentucky,30,83,false,77.3
+405,quam,vestibulum,Charlotte,North Carolina,16,98,false,4.4
+406,aliquet,vivamus,Vero Beach,Florida,44,31,false,25.2
+407,leo,primis,Columbus,Ohio,77,67,true,15.4
+408,rutrum,magnis,Van Nuys,California,59,67,false,64.6
+409,maecenas,in,Erie,Pennsylvania,80,63,false,22.0
+410,orci,metus,Clearwater,Florida,36,65,false,70.7
+411,ante,adipiscing,Atlanta,Georgia,67,72,false,38.9
+412,amet,blandit,Oklahoma City,Oklahoma,26,97,true,58.4
+413,at,sapien,Dayton,Ohio,3,10,false,22.6
+414,amet,vel,Montpelier,Vermont,2,75,false,18.3
+415,penatibus,in,New York City,New York,28,66,false,60.7
+416,aliquam,hac,Reston,Virginia,43,89,true,64.4
+417,porttitor,maecenas,Salt Lake City,Utah,12,69,false,61.9
+418,nec,imperdiet,Tacoma,Washington,20,71,false,15.8
+419,sociis,ante,Trenton,New Jersey,60,68,false,32.6
+420,enim,diam,Arlington,Virginia,3,14,false,85.4
+421,est,condimentum,Amarillo,Texas,25,79,true,86.9
+422,sed,pellentesque,Oklahoma City,Oklahoma,96,82,true,84.9
+423,proin,morbi,Milwaukee,Wisconsin,50,93,true,59.1
+424,pellentesque,massa,Richmond,Virginia,32,37,false,7.8
+425,nulla,diam,Syracuse,New York,1,9,true,25.1
+426,ante,eu,Washington,District of Columbia,18,56,true,55.7
+427,sit,libero,Springfield,Massachusetts,2,38,true,45.6
+428,nisi,id,Chicago,Illinois,96,57,false,27.0
+429,lectus,est,Houston,Texas,97,8,false,6.9
+430,in,nullam,Alexandria,Virginia,8,66,true,85.7
+431,libero,purus,Englewood,Colorado,87,37,false,62.5
+432,duis,interdum,Boise,Idaho,33,81,true,52.8
+433,aliquet,amet,Washington,District of Columbia,11,66,true,70.5
+434,iaculis,integer,Canton,Ohio,27,99,true,27.8
+435,nec,sem,Huntington,West Virginia,88,64,false,25.3
+436,mauris,orci,Saint Louis,Missouri,73,89,true,49.2
+437,fusce,vel,Lancaster,Pennsylvania,61,72,false,64.8
+438,leo,sodales,Wilmington,North Carolina,21,64,true,41.8
+439,habitasse,metus,Washington,District of Columbia,33,23,false,57.6
+440,eget,laoreet,Young America,Minnesota,37,99,true,17.8
+441,rutrum,adipiscing,Reston,Virginia,44,98,true,33.4
+442,sem,ipsum,Atlanta,Georgia,79,27,true,94.9
+443,lectus,cubilia,Sioux Falls,South Dakota,7,15,false,68.9
+444,dui,at,New Orleans,Louisiana,42,50,false,26.5
+445,convallis,nisi,Miami Beach,Florida,54,53,true,37.3
+446,nec,molestie,Ogden,Utah,71,38,true,3.3
+447,lorem,mauris,Washington,District of Columbia,75,75,false,74.3
+448,magna,bibendum,Winston Salem,North Carolina,18,49,true,68.6
+449,cum,nullam,Newark,New Jersey,93,88,true,55.5
+450,leo,interdum,Montgomery,Alabama,18,8,false,63.0
+451,quam,velit,Columbus,Georgia,29,27,false,12.0
+452,tincidunt,hac,Atlanta,Georgia,42,12,true,45.1
+453,integer,donec,Hartford,Connecticut,5,47,true,99.5
+454,non,tristique,Omaha,Nebraska,93,75,true,50.4
+455,interdum,in,Birmingham,Alabama,44,2,false,94.8
+456,posuere,turpis,Charleston,West Virginia,67,12,true,13.7
+457,sit,in,Atlanta,Georgia,79,65,true,3.7
+458,in,rutrum,Miami,Florida,61,17,true,12.4
+459,duis,leo,Virginia Beach,Virginia,41,86,true,4.9
+460,vestibulum,magna,Winston Salem,North Carolina,96,57,false,11.5
+461,nam,in,Kansas City,Missouri,70,7,true,98.9
+462,quisque,dapibus,Huntsville,Alabama,52,73,false,38.3
+463,id,vestibulum,Austin,Texas,75,57,false,41.2
+464,condimentum,placerat,Saint Paul,Minnesota,92,20,false,85.9
+465,primis,ut,Trenton,New Jersey,49,7,true,34.3
+466,porttitor,massa,San Diego,California,50,83,true,7.2
+467,donec,placerat,Charlotte,North Carolina,13,64,false,59.8
+468,non,maecenas,Garland,Texas,7,22,false,93.2
+469,luctus,sapien,Dallas,Texas,14,52,true,41.4
+470,in,quis,Punta Gorda,Florida,24,69,true,48.9
+471,orci,et,Chicago,Illinois,69,37,true,34.5
+472,lectus,lectus,Appleton,Wisconsin,79,9,false,96.0
+473,ipsum,fringilla,Lubbock,Texas,36,71,true,56.7
+474,sed,id,Bryan,Texas,52,42,true,12.5
+475,iaculis,pulvinar,Philadelphia,Pennsylvania,62,61,true,13.5
+476,lorem,nunc,Port Saint Lucie,Florida,24,29,false,74.4
+477,est,id,Killeen,Texas,46,48,true,54.2
+478,donec,malesuada,Jackson,Mississippi,42,33,false,2.8
+479,tortor,sapien,North Port,Florida,90,1,false,30.9
+480,augue,ut,Baton Rouge,Louisiana,38,29,false,34.6
+481,mauris,cras,San Diego,California,30,62,true,41.9
+482,nulla,quisque,Pompano Beach,Florida,36,47,true,80.9
+483,integer,sit,Sparks,Nevada,79,68,false,85.3
+484,nulla,quis,Winston Salem,North Carolina,48,10,false,82.0
+485,blandit,in,Stamford,Connecticut,24,80,true,70.7
+486,ligula,nascetur,Laurel,Maryland,3,38,true,75.4
+487,donec,tristique,Norfolk,Virginia,45,66,true,67.8
+488,enim,nunc,Santa Monica,California,64,44,true,88.5
+489,consectetuer,mus,Washington,District of Columbia,68,96,false,68.6
+490,eget,massa,Jacksonville,Florida,21,54,false,53.5
+491,dolor,amet,Huntington,West Virginia,56,88,true,36.9
+492,libero,quisque,Little Rock,Arkansas,34,58,false,76.7
+493,ut,id,Miami,Florida,52,41,true,45.5
+494,ut,velit,Shreveport,Louisiana,39,93,true,50.6
+495,semper,turpis,Spartanburg,South Carolina,74,66,false,18.0
+496,augue,ac,Phoenix,Arizona,85,3,true,98.7
+497,nonummy,volutpat,Roanoke,Virginia,28,60,false,39.8
+498,in,ut,Charlotte,North Carolina,88,52,false,66.6
+499,justo,amet,Newark,Delaware,18,62,false,10.5
+500,lectus,id,Pasadena,California,27,36,true,91.3
+501,lobortis,at,Hartford,Connecticut,42,33,true,50.5
+502,pede,tortor,Omaha,Nebraska,55,89,false,27.9
+503,felis,pede,Houston,Texas,77,71,true,25.6
+504,volutpat,placerat,Fort Lauderdale,Florida,59,8,true,45.4
+505,porttitor,maecenas,Ventura,California,77,22,false,24.7
+506,in,neque,Saint Louis,Missouri,58,98,true,31.4
+507,duis,risus,Los Angeles,California,13,29,true,16.7
+508,nisl,libero,Washington,District of Columbia,8,46,true,54.3
+509,semper,leo,Anchorage,Alaska,88,10,false,5.8
+510,sodales,pulvinar,Biloxi,Mississippi,74,23,true,78.4
+511,lectus,sed,Cincinnati,Ohio,87,14,false,75.2
+512,dui,nunc,Atlanta,Georgia,46,12,true,25.1
+513,tortor,lobortis,Minneapolis,Minnesota,15,6,true,34.3
+514,porttitor,adipiscing,Philadelphia,Pennsylvania,97,12,false,88.3
+515,id,posuere,Stamford,Connecticut,77,18,false,28.8
+516,tristique,magna,San Francisco,California,34,91,false,90.5
+517,interdum,praesent,Boulder,Colorado,94,49,false,81.2
+518,auctor,ut,Boca Raton,Florida,32,100,false,12.9
+519,lacus,id,Shawnee Mission,Kansas,42,68,true,69.1
+520,imperdiet,massa,Jamaica,New York,63,25,false,42.4
+521,eget,sit,San Antonio,Texas,80,26,false,58.4
+522,nunc,integer,Nashville,Tennessee,74,25,false,57.7
+523,ut,est,New York City,New York,48,90,true,64.0
+524,amet,sit,Hartford,Connecticut,28,21,true,21.3
+525,proin,quisque,Houston,Texas,89,91,false,19.5
+526,augue,ultrices,San Antonio,Texas,48,9,true,42.7
+527,orci,ultrices,San Diego,California,32,1,true,29.6
+528,id,id,Orlando,Florida,28,63,false,37.8
+529,ullamcorper,urna,El Paso,Texas,7,21,false,28.3
+530,phasellus,nec,Orlando,Florida,12,21,true,61.8
+531,eu,vulputate,Pasadena,Texas,26,77,true,49.2
+532,diam,bibendum,Huntsville,Alabama,57,94,true,24.7
+533,pellentesque,lacinia,Cleveland,Ohio,76,18,true,80.7
+534,lectus,et,Birmingham,Alabama,75,43,false,72.0
+535,maecenas,consectetuer,Sacramento,California,12,64,false,85.0
+536,amet,nascetur,Saint Louis,Missouri,77,38,true,83.6
+537,nullam,pede,Syracuse,New York,58,66,true,8.8
+538,primis,lectus,Las Vegas,Nevada,34,100,true,43.2
+539,adipiscing,duis,Gastonia,North Carolina,63,15,true,51.9
+540,feugiat,massa,Louisville,Kentucky,86,18,false,61.7
+541,non,posuere,Lincoln,Nebraska,100,61,false,93.2
+542,at,vestibulum,El Paso,Texas,51,87,false,74.1
+543,nibh,diam,Wichita,Kansas,46,97,false,45.1
+544,praesent,mi,Phoenix,Arizona,76,69,true,74.8
+545,vestibulum,nullam,Baltimore,Maryland,63,72,false,73.4
+546,nibh,libero,Reston,Virginia,88,53,true,36.1
+547,ante,rhoncus,Washington,District of Columbia,78,7,false,67.9
+548,vestibulum,lobortis,Spartanburg,South Carolina,47,18,true,26.5
+549,massa,consequat,Evansville,Indiana,90,23,false,7.3
+550,iaculis,vulputate,Tuscaloosa,Alabama,25,86,false,4.5
+551,tempus,sed,Salt Lake City,Utah,67,78,true,94.4
+552,sociis,lacus,Columbia,Missouri,74,63,true,91.2
+553,magnis,lectus,Syracuse,New York,88,33,false,16.4
+554,lacus,non,West Palm Beach,Florida,10,3,false,57.1
+555,ut,ac,Houston,Texas,82,8,true,41.7
+556,ut,nulla,Huntsville,Alabama,9,27,true,10.9
+557,etiam,eget,Sarasota,Florida,86,39,false,47.2
+558,at,vestibulum,San Jose,California,66,66,true,3.0
+559,mauris,magna,Jacksonville,Florida,53,55,false,48.3
+560,tempor,posuere,Seattle,Washington,38,15,false,84.8
+561,at,vulputate,Tulsa,Oklahoma,15,21,true,37.9
+562,mus,tincidunt,Charlotte,North Carolina,49,51,false,6.4
+563,mauris,nisl,Oxnard,California,55,43,false,22.5
+564,fermentum,lorem,Washington,District of Columbia,63,46,false,62.7
+565,lacinia,sed,Shawnee Mission,Kansas,75,52,true,26.5
+566,dolor,volutpat,Brooklyn,New York,85,37,false,34.0
+567,sapien,tincidunt,Alexandria,Virginia,21,69,true,17.0
+568,viverra,erat,Sacramento,California,25,33,false,35.2
+569,eget,pellentesque,Tulsa,Oklahoma,11,96,true,18.0
+570,nulla,consequat,San Francisco,California,54,71,false,45.7
+571,quis,odio,Pittsburgh,Pennsylvania,92,60,false,34.3
+572,nulla,aliquet,Dayton,Ohio,66,60,true,42.5
+573,imperdiet,odio,Memphis,Tennessee,2,7,false,86.6
+574,cum,tempus,Johnstown,Pennsylvania,95,17,false,14.7
+575,nascetur,orci,Billings,Montana,9,46,false,69.7
+576,pede,blandit,Richmond,Virginia,18,38,true,24.2
+577,eros,proin,Phoenix,Arizona,74,56,true,35.7
+578,ac,tempus,San Diego,California,44,62,true,16.4
+579,quam,fringilla,Wichita,Kansas,30,38,true,70.9
+580,ipsum,nascetur,Milwaukee,Wisconsin,28,81,false,18.4
+581,congue,orci,Pasadena,California,23,93,false,28.4
+582,vel,tristique,San Diego,California,72,58,true,14.0
+583,a,amet,Orlando,Florida,39,6,false,33.3
+584,nam,vestibulum,San Antonio,Texas,7,92,false,54.1
+585,interdum,risus,Brooklyn,New York,80,14,false,92.2
+586,pellentesque,penatibus,Portsmouth,New Hampshire,54,57,true,88.3
+587,maecenas,pellentesque,Boston,Massachusetts,9,88,true,3.7
+588,accumsan,pharetra,Canton,Ohio,23,94,false,36.3
+589,erat,aenean,Chicago,Illinois,4,15,true,55.8
+590,primis,augue,Tulsa,Oklahoma,46,90,false,95.6
+591,volutpat,velit,Boston,Massachusetts,38,20,false,22.9
+592,eros,eu,Lansing,Michigan,44,12,true,64.2
+593,eu,montes,Colorado Springs,Colorado,85,50,false,18.5
+594,morbi,sed,Bellevue,Washington,68,47,true,58.5
+595,nunc,vel,Buffalo,New York,63,7,false,11.3
+596,ipsum,quisque,Sacramento,California,48,61,false,68.2
+597,sem,risus,San Francisco,California,80,100,false,45.7
+598,rhoncus,morbi,Maple Plain,Minnesota,50,59,true,61.8
+599,ut,congue,Des Moines,Iowa,65,27,true,93.1
+600,diam,tortor,Salt Lake City,Utah,9,15,false,20.6
+601,neque,ante,Bradenton,Florida,84,48,true,4.3
+602,porttitor,in,Springfield,Massachusetts,91,67,false,63.6
+603,metus,libero,San Francisco,California,99,38,false,82.9
+604,condimentum,eget,Buffalo,New York,29,14,false,73.2
+605,non,turpis,Reading,Pennsylvania,86,95,true,69.5
+606,blandit,at,Merrifield,Virginia,99,64,true,10.4
+607,pharetra,tellus,Inglewood,California,1,4,true,67.7
+608,suspendisse,nulla,Monticello,Minnesota,33,59,true,98.0
+609,posuere,ipsum,Washington,District of Columbia,62,62,false,5.2
+610,vulputate,tempus,Jacksonville,Florida,70,97,true,76.4
+611,in,ut,Athens,Georgia,61,83,true,59.1
+612,nulla,pede,Kansas City,Missouri,40,62,true,44.8
+613,pede,ipsum,Humble,Texas,15,65,false,59.1
+614,interdum,justo,Jackson,Mississippi,99,67,true,59.6
+615,ac,primis,Dulles,Virginia,84,52,true,19.4
+616,nec,bibendum,Omaha,Nebraska,14,45,false,4.6
+617,quam,et,Saint Petersburg,Florida,43,100,false,38.0
+618,ligula,felis,Los Angeles,California,76,88,true,16.4
+619,nulla,in,Daytona Beach,Florida,19,74,true,71.4
+620,hac,aliquet,New York City,New York,81,25,true,66.3
+621,nunc,sollicitudin,Naperville,Illinois,67,4,false,31.2
+622,nulla,erat,Las Cruces,New Mexico,43,38,true,92.5
+623,varius,consequat,Lake Worth,Florida,69,66,false,58.6
+624,donec,convallis,Longview,Texas,45,65,false,67.9
+625,viverra,vivamus,Philadelphia,Pennsylvania,35,53,true,25.3
+626,odio,eget,London,Kentucky,13,47,true,1.2
+627,luctus,id,Chicago,Illinois,51,64,true,50.0
+628,in,nam,Knoxville,Tennessee,89,27,true,11.8
+629,in,sapien,London,Kentucky,71,44,true,64.3
+630,aliquam,justo,Huntington,West Virginia,27,44,true,67.4
+631,elementum,felis,Trenton,New Jersey,47,4,false,74.2
+632,est,placerat,Boston,Massachusetts,55,2,true,10.8
+633,congue,et,Lincoln,Nebraska,85,46,true,21.9
+634,a,luctus,Los Angeles,California,24,11,true,40.5
+635,lacinia,molestie,San Jose,California,93,18,true,34.9
+636,elit,semper,Houston,Texas,97,29,true,29.0
+637,ante,penatibus,Las Vegas,Nevada,70,31,false,58.8
+638,orci,lacus,Stockton,California,77,72,true,4.0
+639,lacus,eros,Meridian,Mississippi,13,91,false,30.1
+640,lorem,pellentesque,Mobile,Alabama,79,71,true,89.7
+641,venenatis,felis,Englewood,Colorado,69,46,true,30.5
+642,turpis,tristique,Grand Rapids,Michigan,5,92,true,56.9
+643,penatibus,sapien,Colorado Springs,Colorado,20,57,false,81.5
+644,nascetur,orci,El Paso,Texas,92,70,false,3.4
+645,ut,pharetra,Chicago,Illinois,18,4,true,48.9
+646,quam,tristique,Oakland,California,75,69,true,11.6
+647,nonummy,libero,Oklahoma City,Oklahoma,93,74,false,58.9
+648,nisl,in,Miami,Florida,76,76,false,45.7
+649,gravida,eu,Salt Lake City,Utah,61,17,false,11.7
+650,luctus,lacinia,Pittsburgh,Pennsylvania,72,98,false,35.4
+651,adipiscing,sollicitudin,Hayward,California,65,58,true,89.0
+652,vulputate,quam,Billings,Montana,34,76,false,1.3
+653,risus,nulla,Rochester,New York,79,31,false,53.9
+654,mi,vehicula,Columbus,Georgia,22,86,false,75.4
+655,consequat,eget,Saint Louis,Missouri,56,75,false,16.0
+656,vestibulum,elementum,Durham,North Carolina,42,95,true,99.2
+657,adipiscing,in,Huntington,West Virginia,5,12,false,68.1
+658,commodo,morbi,Lincoln,Nebraska,40,92,true,50.6
+659,non,duis,Saint Louis,Missouri,55,62,true,26.8
+660,posuere,quam,Fort Worth,Texas,75,37,false,94.9
+661,proin,in,Charleston,West Virginia,81,37,false,24.6
+662,vulputate,venenatis,Rochester,Minnesota,60,22,true,78.7
+663,aliquet,cum,Richmond,Virginia,64,53,true,46.6
+664,aenean,tempor,Sioux Falls,South Dakota,9,52,true,67.4
+665,orci,ante,Racine,Wisconsin,28,77,true,90.5
+666,tortor,in,Dayton,Ohio,59,29,false,7.7
+667,gravida,vivamus,Omaha,Nebraska,16,24,false,84.2
+668,urna,odio,Boston,Massachusetts,61,88,true,50.9
+669,sit,nulla,White Plains,New York,96,59,true,11.4
+670,aenean,donec,San Diego,California,88,78,true,30.8
+671,consequat,augue,North Hollywood,California,33,22,true,52.1
+672,sodales,laoreet,Asheville,North Carolina,49,87,false,70.8
+673,mollis,justo,Littleton,Colorado,29,65,true,96.7
+674,erat,curae,Charlotte,North Carolina,34,70,true,83.5
+675,felis,integer,Baltimore,Maryland,38,10,false,48.4
+676,eros,non,Richmond,Virginia,76,76,false,19.6
+677,turpis,integer,Mesa,Arizona,3,87,true,44.3
+678,accumsan,nam,Scranton,Pennsylvania,18,64,false,76.9
+679,in,pellentesque,Mesa,Arizona,75,72,true,17.2
+680,in,odio,Austin,Texas,33,20,false,91.7
+681,ut,condimentum,Tempe,Arizona,46,77,false,87.0
+682,risus,pulvinar,Tucson,Arizona,74,51,true,95.9
+683,feugiat,nullam,Gainesville,Florida,91,62,false,74.7
+684,turpis,orci,Springfield,Illinois,1,42,true,72.4
+685,hac,dui,North Las Vegas,Nevada,45,26,false,99.3
+686,porttitor,nisi,Huntington,West Virginia,77,48,false,34.3
+687,ligula,velit,New York City,New York,68,15,true,7.2
+688,parturient,gravida,Topeka,Kansas,50,9,false,98.1
+689,sagittis,ac,Joliet,Illinois,47,53,true,53.5
+690,sed,nonummy,Chicago,Illinois,58,83,true,23.3
+691,iaculis,id,Miami,Florida,87,78,true,43.9
+692,commodo,non,Pompano Beach,Florida,49,28,false,26.5
+693,quis,enim,Savannah,Georgia,70,75,false,17.2
+694,ipsum,phasellus,El Paso,Texas,19,9,false,46.1
+695,ultrices,at,New York City,New York,96,31,false,8.9
+696,pharetra,integer,Oklahoma City,Oklahoma,36,47,true,83.5
+697,cras,vestibulum,Cincinnati,Ohio,39,81,false,23.9
+698,pulvinar,fusce,Rochester,New York,61,90,false,62.5
+699,vulputate,lacinia,San Antonio,Texas,36,7,false,86.6
+700,ut,massa,Wilmington,Delaware,95,99,true,39.3
+701,vestibulum,nisi,Sacramento,California,80,83,true,19.3
+702,cras,vivamus,Dallas,Texas,13,31,true,20.9
+703,ac,ultrices,El Paso,Texas,68,37,true,21.2
+704,vestibulum,et,Baltimore,Maryland,83,80,true,12.2
+705,id,in,Topeka,Kansas,64,6,true,31.6
+706,ut,nulla,Lawrenceville,Georgia,39,4,false,76.4
+707,libero,pede,Herndon,Virginia,3,50,false,57.8
+708,curae,orci,Houston,Texas,86,76,true,18.6
+709,sed,bibendum,Boston,Massachusetts,95,85,true,95.1
+710,rutrum,phasellus,Young America,Minnesota,50,78,true,58.6
+711,dui,id,Albuquerque,New Mexico,16,40,true,3.6
+712,eu,in,Oakland,California,16,64,false,29.2
+713,ultrices,bibendum,Cedar Rapids,Iowa,37,56,false,91.0
+714,non,interdum,Seattle,Washington,70,87,false,98.8
+715,sagittis,lorem,San Francisco,California,93,85,true,50.4
+716,enim,maecenas,Huntsville,Alabama,7,78,true,39.1
+717,porta,venenatis,Tuscaloosa,Alabama,48,36,false,76.9
+718,ligula,elit,Terre Haute,Indiana,54,4,false,89.7
+719,dolor,vestibulum,Asheville,North Carolina,52,53,true,25.9
+720,in,sem,Indianapolis,Indiana,5,18,false,96.4
+721,consectetuer,lacus,Denver,Colorado,86,48,true,73.6
+722,mi,massa,Houston,Texas,77,59,true,9.0
+723,proin,eros,Roanoke,Virginia,1,63,true,14.8
+724,ligula,quam,Herndon,Virginia,79,60,false,37.6
+725,lobortis,tempor,Albany,New York,64,94,false,13.7
+726,enim,orci,Trenton,New Jersey,17,69,true,69.1
+727,neque,commodo,Colorado Springs,Colorado,1,24,false,20.4
+728,accumsan,aliquam,Sacramento,California,72,9,false,7.9
+729,enim,pede,Aurora,Colorado,71,38,true,24.1
+730,rutrum,ante,Louisville,Kentucky,55,78,false,13.7
+731,nulla,at,Orlando,Florida,59,66,false,26.9
+732,parturient,leo,Washington,District of Columbia,86,77,true,42.1
+733,eu,parturient,Brooklyn,New York,78,64,false,37.1
+734,turpis,sit,Stockton,California,2,64,true,19.7
+735,elementum,rutrum,Garden Grove,California,32,3,true,24.9
+736,dapibus,enim,Atlanta,Georgia,56,57,true,34.2
+737,posuere,natoque,Boise,Idaho,10,85,true,14.4
+738,at,diam,Lincoln,Nebraska,37,4,false,59.5
+739,ligula,faucibus,San Jose,California,31,96,true,23.0
+740,felis,id,Denver,Colorado,45,70,true,40.4
+741,vel,hac,Newark,Delaware,89,24,false,10.3
+742,id,nunc,Paterson,New Jersey,100,12,false,90.6
+743,eu,odio,Dallas,Texas,15,27,false,93.2
+744,justo,molestie,Anchorage,Alaska,96,54,true,22.1
+745,vestibulum,faucibus,Decatur,Illinois,74,47,true,23.5
+746,ipsum,convallis,Buffalo,New York,34,9,false,43.5
+747,id,gravida,Greensboro,North Carolina,14,95,true,72.4
+748,lectus,interdum,Garland,Texas,72,14,false,15.6
+749,potenti,dolor,Grand Forks,North Dakota,90,90,true,48.7
+750,ut,justo,Jefferson City,Missouri,48,86,false,62.4
+751,nisl,consectetuer,Madison,Wisconsin,39,90,true,32.9
+752,sapien,mauris,New York City,New York,75,79,false,82.6
+753,nisi,vestibulum,Mobile,Alabama,7,35,true,81.7
+754,arcu,posuere,Memphis,Tennessee,65,14,true,11.5
+755,amet,nibh,Colorado Springs,Colorado,87,51,true,61.9
+756,lacinia,nullam,Meridian,Mississippi,34,44,true,24.2
+757,cras,tempor,West Palm Beach,Florida,23,84,true,83.8
+758,eget,augue,Macon,Georgia,25,85,false,62.2
+759,orci,tortor,Las Vegas,Nevada,84,57,true,69.9
+760,vestibulum,vel,Washington,District of Columbia,14,80,true,54.4
+761,orci,at,Orlando,Florida,83,38,false,58.4
+762,nulla,in,Minneapolis,Minnesota,87,51,false,38.2
+763,mauris,quam,Reno,Nevada,50,89,false,77.2
+764,lobortis,aliquet,Arlington,Texas,15,86,true,42.0
+765,platea,erat,Lynchburg,Virginia,82,53,true,59.0
+766,leo,a,Hialeah,Florida,42,18,false,79.8
+767,vestibulum,sit,Albany,New York,72,12,true,74.5
+768,eu,elit,Boca Raton,Florida,35,51,false,96.1
+769,in,orci,Springfield,Massachusetts,24,96,true,2.9
+770,amet,parturient,Springfield,Illinois,17,41,false,7.8
+771,vitae,id,Berkeley,California,76,85,true,4.3
+772,quis,nam,San Antonio,Texas,33,1,false,63.1
+773,in,mauris,Columbus,Ohio,80,59,false,84.7
+774,pede,aliquet,Olympia,Washington,35,44,true,33.9
+775,vel,vestibulum,Houston,Texas,58,24,false,19.3
+776,platea,ridiculus,Port Washington,New York,98,73,true,22.4
+777,ultrices,proin,Watertown,Massachusetts,8,83,false,30.5
+778,mattis,erat,Stamford,Connecticut,72,34,false,48.9
+779,porttitor,potenti,Warren,Ohio,41,34,true,66.5
+780,eget,donec,Philadelphia,Pennsylvania,29,1,false,59.3
+781,risus,faucibus,Tulsa,Oklahoma,80,55,true,53.7
+782,ipsum,lorem,San Jose,California,46,9,false,59.1
+783,at,nulla,Omaha,Nebraska,87,89,false,97.2
+784,molestie,in,Fort Lauderdale,Florida,62,86,false,54.8
+785,sit,vitae,Denver,Colorado,1,7,false,42.0
+786,dapibus,nisi,Wichita Falls,Texas,67,36,false,89.7
+787,montes,lacinia,Washington,District of Columbia,19,23,true,80.9
+788,vestibulum,donec,Phoenix,Arizona,73,74,true,25.2
+789,sem,nullam,Topeka,Kansas,62,22,true,38.7
+790,est,ornare,Omaha,Nebraska,55,29,true,74.3
+791,ut,in,Phoenix,Arizona,67,23,false,11.7
+792,lorem,lacinia,Elizabeth,New Jersey,62,40,true,99.4
+793,sed,tortor,Rockford,Illinois,18,58,true,78.2
+794,dapibus,ipsum,Tulsa,Oklahoma,13,65,false,57.0
+795,natoque,vel,Lake Charles,Louisiana,81,57,false,41.6
+796,sit,orci,San Diego,California,70,9,false,3.5
+797,lectus,odio,Pompano Beach,Florida,24,81,true,20.7
+798,sed,morbi,Aiken,South Carolina,43,58,true,9.5
+799,orci,vestibulum,Chula Vista,California,42,99,true,41.2
+800,ut,nulla,Kansas City,Missouri,10,73,true,83.4
+801,felis,vestibulum,Washington,District of Columbia,18,100,true,60.5
+802,convallis,sed,Colorado Springs,Colorado,4,70,true,61.7
+803,sapien,neque,Bakersfield,California,45,10,false,13.8
+804,diam,duis,Dallas,Texas,36,61,true,7.1
+805,vestibulum,nisl,Norfolk,Virginia,16,64,true,37.9
+806,morbi,consectetuer,Boulder,Colorado,76,21,true,11.5
+807,ultrices,eget,Jackson,Mississippi,32,7,false,3.0
+808,potenti,nulla,Hot Springs National Park,Arkansas,29,13,false,77.3
+809,massa,vitae,Los Angeles,California,10,16,true,92.2
+810,purus,velit,Clearwater,Florida,24,22,true,54.7
+811,in,morbi,Louisville,Kentucky,9,23,true,21.5
+812,vivamus,turpis,Richmond,Virginia,32,92,false,2.4
+813,vulputate,sagittis,Philadelphia,Pennsylvania,36,92,false,7.6
+814,mattis,mollis,Peoria,Illinois,76,25,true,81.7
+815,consequat,velit,Mesa,Arizona,97,41,true,79.4
+816,ullamcorper,nec,Yakima,Washington,47,94,false,53.9
+817,blandit,justo,Detroit,Michigan,86,6,true,91.8
+818,sit,ut,Cincinnati,Ohio,3,23,true,35.7
+819,nulla,porttitor,Naperville,Illinois,2,85,true,32.1
+820,eleifend,a,Springfield,Illinois,95,50,true,86.9
+821,ullamcorper,at,Washington,District of Columbia,98,11,false,12.9
+822,in,rutrum,Colorado Springs,Colorado,55,73,false,49.7
+823,convallis,nunc,Lake Charles,Louisiana,87,30,true,52.9
+824,pellentesque,ligula,San Diego,California,95,40,true,22.1
+825,sollicitudin,non,Pueblo,Colorado,88,34,true,93.3
+826,congue,ultrices,Dallas,Texas,95,84,true,33.5
+827,pede,at,Erie,Pennsylvania,14,58,false,25.6
+828,vehicula,a,Modesto,California,61,41,false,47.0
+829,ultrices,eros,Lynchburg,Virginia,83,27,false,36.1
+830,nam,urna,Omaha,Nebraska,64,14,false,29.0
+831,rhoncus,quam,Portland,Oregon,8,90,false,53.8
+832,vivamus,ligula,Miami,Florida,34,88,true,33.9
+833,eros,faucibus,Boston,Massachusetts,16,20,false,22.8
+834,pede,phasellus,Philadelphia,Pennsylvania,27,63,true,86.5
+835,sit,diam,Spokane,Washington,90,98,true,71.6
+836,augue,pretium,Baton Rouge,Louisiana,92,78,false,14.9
+837,sapien,ligula,El Paso,Texas,65,14,true,14.4
+838,in,turpis,Corpus Christi,Texas,79,98,true,99.8
+839,in,ligula,El Paso,Texas,85,72,true,87.8
+840,elementum,maecenas,Springfield,Illinois,40,35,true,45.7
+841,sem,et,Long Beach,California,90,13,false,38.8
+842,in,in,Charleston,West Virginia,2,99,false,71.9
+843,sit,integer,Kansas City,Missouri,17,44,false,42.7
+844,condimentum,a,El Paso,Texas,95,11,true,98.6
+845,vestibulum,imperdiet,Richmond,California,49,90,true,91.1
+846,turpis,felis,Reading,Pennsylvania,92,26,false,84.7
+847,massa,ac,Fort Myers,Florida,83,61,true,60.8
+848,habitasse,duis,Wichita,Kansas,33,73,false,36.1
+849,ac,ultrices,Greenville,South Carolina,93,45,true,10.1
+850,sodales,magna,Clearwater,Florida,73,27,true,78.0
+851,erat,in,New York City,New York,51,27,true,48.3
+852,iaculis,nulla,Cincinnati,Ohio,17,12,true,49.9
+853,vulputate,vel,Aiken,South Carolina,5,40,false,72.7
+854,in,aliquam,Los Angeles,California,99,59,true,66.4
+855,venenatis,sed,Salt Lake City,Utah,87,59,true,99.6
+856,odio,tincidunt,Waltham,Massachusetts,9,2,false,44.5
+857,nam,quam,San Diego,California,11,93,true,41.1
+858,ut,tellus,Greeley,Colorado,22,85,true,19.5
+859,felis,at,Delray Beach,Florida,80,60,false,93.2
+860,rutrum,donec,Philadelphia,Pennsylvania,64,26,false,5.7
+861,integer,porta,Amarillo,Texas,86,30,true,28.3
+862,rutrum,duis,Newton,Massachusetts,78,73,false,6.5
+863,euismod,vestibulum,Lincoln,Nebraska,64,48,true,7.3
+864,luctus,luctus,Tulsa,Oklahoma,90,57,true,20.5
+865,orci,in,New York City,New York,22,79,false,29.3
+866,lacinia,pretium,Topeka,Kansas,52,76,false,90.0
+867,turpis,diam,Cleveland,Ohio,20,88,false,38.4
+868,feugiat,nulla,Little Rock,Arkansas,41,81,false,70.9
+869,amet,ut,Des Moines,Iowa,63,4,false,95.4
+870,sit,eros,Washington,District of Columbia,49,24,false,55.1
+871,etiam,at,Henderson,Nevada,93,71,false,3.0
+872,nulla,luctus,Salinas,California,24,80,false,53.4
+873,platea,pretium,Akron,Ohio,82,36,true,35.4
+874,sodales,suspendisse,Killeen,Texas,58,47,false,8.0
+875,lectus,nisl,Sacramento,California,34,55,true,72.1
+876,ipsum,et,San Bernardino,California,68,90,false,85.8
+877,ante,id,Vancouver,Washington,66,49,false,78.1
+878,odio,ultrices,Des Moines,Iowa,25,62,true,24.5
+879,luctus,eu,San Jose,California,8,7,false,93.5
+880,rutrum,tortor,Syracuse,New York,50,32,true,34.9
+881,tincidunt,sit,Topeka,Kansas,73,62,false,80.3
+882,volutpat,accumsan,Philadelphia,Pennsylvania,24,95,false,34.7
+883,praesent,dapibus,Dallas,Texas,100,87,false,87.1
+884,nulla,magna,Tacoma,Washington,17,7,true,19.6
+885,venenatis,massa,Phoenix,Arizona,28,6,false,89.7
+886,quis,eu,Charlotte,North Carolina,8,8,true,57.3
+887,semper,vel,Knoxville,Tennessee,42,41,false,33.8
+888,ultrices,nunc,Gainesville,Florida,100,7,true,15.7
+889,magna,ipsum,Tacoma,Washington,18,93,false,18.9
+890,massa,ipsum,San Diego,California,86,61,false,59.1
+891,semper,dolor,Grand Forks,North Dakota,23,37,false,23.1
+892,volutpat,ut,Panama City,Florida,32,41,true,23.2
+893,sit,lacinia,Anniston,Alabama,8,87,true,47.4
+894,penatibus,pede,Cincinnati,Ohio,31,93,true,17.6
+895,nulla,cras,Chicago,Illinois,71,14,true,64.6
+896,vel,amet,Los Angeles,California,6,45,false,76.6
+897,nunc,etiam,Bismarck,North Dakota,88,83,true,26.9
+898,massa,cubilia,Syracuse,New York,16,52,true,23.0
+899,a,lacus,Raleigh,North Carolina,89,14,true,41.9
+900,imperdiet,viverra,Dallas,Texas,12,52,true,94.9
+901,etiam,duis,Portland,Oregon,36,42,true,16.1
+902,condimentum,vulputate,Durham,North Carolina,7,75,true,30.5
+903,nec,proin,Oakland,California,1,6,false,71.0
+904,semper,rutrum,Virginia Beach,Virginia,13,40,true,65.4
+905,phasellus,augue,Denver,Colorado,67,74,true,49.9
+906,aliquet,odio,Louisville,Kentucky,32,55,true,76.9
+907,odio,eget,San Bernardino,California,50,76,true,72.3
+908,quam,augue,Norwalk,Connecticut,49,87,false,15.5
+909,mauris,luctus,Temple,Texas,77,39,true,67.2
+910,et,elit,Chicago,Illinois,15,66,true,9.3
+911,in,cum,Houston,Texas,6,49,true,36.8
+912,sem,velit,Saginaw,Michigan,79,34,true,92.0
+913,duis,felis,Saint Louis,Missouri,76,2,true,51.2
+914,sit,nam,Sacramento,California,97,93,false,17.5
+915,nulla,tincidunt,Springfield,Illinois,69,98,true,29.4
+916,sit,vehicula,Bridgeport,Connecticut,65,16,true,32.5
+917,donec,vestibulum,Chattanooga,Tennessee,20,38,false,54.2
+918,amet,ante,Philadelphia,Pennsylvania,39,95,false,99.1
+919,non,curae,Fort Collins,Colorado,13,82,false,28.9
+920,suspendisse,blandit,Kent,Washington,98,24,true,44.2
+921,ac,diam,Great Neck,New York,8,35,true,25.6
+922,iaculis,ornare,New Orleans,Louisiana,70,94,true,88.9
+923,nisl,pretium,Tucson,Arizona,56,88,true,11.6
+924,consectetuer,morbi,Charlotte,North Carolina,72,9,true,89.9
+925,odio,pretium,Hartford,Connecticut,65,96,false,58.2
+926,neque,aliquam,Arlington,Virginia,71,52,true,87.4
+927,amet,ultrices,Greenville,South Carolina,36,6,false,82.0
+928,amet,mi,Simi Valley,California,13,92,true,63.4
+929,vestibulum,maecenas,Salem,Oregon,85,97,false,3.5
+930,sed,sem,Nashville,Tennessee,53,30,true,15.3
+931,eu,congue,Lancaster,Pennsylvania,19,72,false,4.4
+932,in,ultrices,San Francisco,California,6,76,false,48.6
+933,neque,nam,Dallas,Texas,100,80,false,77.7
+934,nonummy,congue,Dayton,Ohio,40,25,true,9.0
+935,massa,nulla,San Antonio,Texas,50,89,false,3.6
+936,et,porttitor,Detroit,Michigan,52,28,true,96.4
+937,magna,penatibus,Washington,District of Columbia,87,50,false,32.1
+938,et,a,Dallas,Texas,55,46,true,66.3
+939,velit,accumsan,Chico,California,47,26,false,33.3
+940,cubilia,etiam,Washington,District of Columbia,70,75,false,86.9
+941,curabitur,tortor,Dallas,Texas,44,28,true,92.8
+942,sed,est,San Antonio,Texas,78,68,true,16.0
+943,amet,eget,Atlanta,Georgia,85,96,true,16.7
+944,ipsum,ipsum,Bethlehem,Pennsylvania,71,94,false,6.9
+945,eget,mattis,Detroit,Michigan,4,3,true,74.0
+946,nunc,ut,New York City,New York,58,71,false,39.0
+947,duis,augue,Saint Louis,Missouri,63,2,true,44.7
+948,felis,et,Philadelphia,Pennsylvania,40,14,true,10.2
+949,massa,posuere,Knoxville,Tennessee,22,37,false,58.8
+950,sed,at,Tyler,Texas,33,70,true,81.4
+951,elit,dui,Mobile,Alabama,84,85,false,26.2
+952,mauris,consequat,Bradenton,Florida,84,79,true,42.5
+953,turpis,pretium,Denver,Colorado,51,19,false,60.8
+954,in,tortor,Kansas City,Missouri,21,84,true,90.4
+955,sed,porttitor,Santa Barbara,California,85,97,true,54.5
+956,congue,ornare,Charleston,West Virginia,25,79,false,33.8
+957,morbi,in,Charleston,West Virginia,82,46,true,10.8
+958,turpis,convallis,Abilene,Texas,53,14,true,89.9
+959,est,in,Washington,District of Columbia,15,15,true,58.3
+960,magna,vulputate,Houston,Texas,30,41,true,83.0
+961,amet,quam,Phoenix,Arizona,80,78,true,56.5
+962,ut,magna,Tampa,Florida,65,95,true,73.8
+963,duis,leo,Lynchburg,Virginia,77,93,false,19.5
+964,volutpat,lorem,Yonkers,New York,57,26,true,87.2
+965,odio,nisi,Oklahoma City,Oklahoma,9,53,true,78.2
+966,felis,at,Bloomington,Illinois,2,44,false,91.3
+967,nisi,volutpat,Lexington,Kentucky,94,54,false,39.2
+968,turpis,justo,Evansville,Indiana,72,83,true,36.6
+969,in,quam,Las Vegas,Nevada,98,54,false,49.2
+970,cras,id,Sacramento,California,95,19,false,13.8
+971,ultrices,tristique,Hicksville,New York,29,74,false,18.4
+972,sed,augue,Peoria,Arizona,8,23,true,24.7
+973,volutpat,aenean,Jamaica,New York,18,54,false,5.1
+974,nulla,sed,Charlotte,North Carolina,54,4,true,82.6
+975,quis,nullam,New York City,New York,45,58,true,92.1
+976,vestibulum,in,Shreveport,Louisiana,76,50,true,49.8
+977,a,vestibulum,Valley Forge,Pennsylvania,77,27,false,68.2
+978,nullam,feugiat,New Orleans,Louisiana,37,55,false,51.4
+979,ante,id,Kingsport,Tennessee,49,35,true,14.8
+980,sed,adipiscing,South Lake Tahoe,California,93,30,false,3.9
+981,vestibulum,id,New York City,New York,76,45,false,52.2
+982,posuere,vulputate,Little Rock,Arkansas,13,84,true,24.9
+983,faucibus,leo,Boise,Idaho,6,84,false,25.8
+984,eleifend,risus,Winston Salem,North Carolina,54,57,true,25.3
+985,vitae,platea,Detroit,Michigan,97,72,true,79.4
+986,lacinia,mus,Washington,District of Columbia,62,92,true,44.6
+987,tempus,luctus,Toledo,Ohio,100,26,false,77.8
+988,pede,rhoncus,Boynton Beach,Florida,13,59,false,64.9
+989,vestibulum,vulputate,New York City,New York,45,96,true,55.4
+990,tristique,nascetur,Davenport,Iowa,46,36,true,52.2
+991,eros,platea,Lakeland,Florida,3,40,false,86.6
+992,nibh,mollis,Jacksonville,Florida,38,71,true,48.5
+993,rhoncus,sit,Huntsville,Alabama,74,87,true,23.4
+994,a,metus,Phoenix,Arizona,70,22,true,58.5
+995,habitasse,pellentesque,Hicksville,New York,61,12,true,16.9
+996,vivamus,lectus,Albuquerque,New Mexico,79,6,true,92.7
+997,integer,primis,El Paso,Texas,3,99,false,26.7
+998,in,donec,Englewood,Colorado,54,63,false,29.3
+999,sit,nec,Springfield,Missouri,45,61,true,11.7
+1000,a,ut,Fort Lauderdale,Florida,42,86,false,13.4
