@@ -1,8 +1,6 @@
-### TP3 DSS Data Warehouse ###
+## TP3 DSS Data Warehouse ##
 
-## Consigna ##
-
-### Empresa Venta Online de Vinos"""  
+### Empresa Venta Online de Vinos ###  
 Esta empresa necesita que se diseñe un DW para registrar la cantidad y ventas de sus vinos a sus clientes. Parte de la
 base de datos actual esta compuesta por las siguientes tablas:
 
