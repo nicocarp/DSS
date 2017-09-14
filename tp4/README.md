@@ -1,7 +1,7 @@
 ## TP4 DSS Data Mining ##
 
   - [Consigna](#consigna)
-  - [Ejecuta](#Ejecutar)
+  - [Ejecutar](#Ejecutar)
 
 ## Consigna ##
 ### Mineria de Datos sobre Redes Sociales y sitios Web ###
@@ -49,10 +49,15 @@ Links
     $ jupter notebook
 
 Para Visualizacion Activa ejecutar servidor bokeh
+
     $ cd bokeh_server
     $ bokeh serve main.py
 
-  - [http://localhost:5006/main][http://localhost:5006/main]
 
+  - [http://localhost:5006/main][path]
+
+[path]: http://localhost:5006/main
+
+  
 
 
