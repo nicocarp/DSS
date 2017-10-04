@@ -1,7 +1,0 @@
-Consultas Vineria
-
-* Muestre porcentajes de tipos de vinos más vendidos en X año
-
-select w.type as tipo_vino, sum(o."nrBottles") as cant_x_tipo_vino, (select sum(oo."nrBottles") from "Order" as oo join "Timestamp" as tt on oo.time = tt.code and tt.year = 2010) as total_anual, (((sum(o."nrBottles"))*100)/(select sum(oo."nrBottles") from "Order" as oo join "Timestamp" as tt on oo.time = tt.code and tt.year = 2010)) as porcentaje, '2010' as anio from "Wine" as w join "Order" as o on (o.wine = w.code) join "Timestamp" as t on (o.time = t.code and t.year = 2010) group by w.type order by cant_x_tipo_vino desc;
-
-
