@@ -10,3 +10,4 @@ PrettyTable==0.7.2
 bokeh==0.12.7
 sklearn
 pillow==4.3.0
+python-mnist
