@@ -1,0 +1,29 @@
+25/10/2017
+
+Lo que hicimos hoy:
+El punto 4 del tp final pide comparar tres metodos distintos de predictores. 
+Esta hecho ya una predictor svc.
+Para compararlos hay que elegir dos metricas, ya hay un f1_score.
+
+El problema esta en que la mayoria de los modelos requieren de tiempo para procesarlas y mi compu (soy nico D:) no se la banca.
+
+Lo siguiente seria:
+Seguir con el archivo tpFinal.ipynb para la primera parte (svc y random forest), y hacer otro .ipynb para ir arrancando con redes neuronales: librerias, metodos, metricas, etc.
+
+1) Tareas:
+- aplicar a los datos un metodo mas, que podria ser random forest.
+- aplicar otra metrica mas a cada modelo elegido, que puede ser el de curva rac (debe ser graficada tambien).
+- todos estos datos deben ser guardados para una comparacion final comparados.
+- tener en cuenta el punto 5 que se pide graficar cada una de las predicciones de los modelos. 
+- estos mismos puntos se deben aplicar sobre las redes neuronales para hacer una comparacion final entre los tres metodos predictores, habria que investigar como.
+
+2) Con respecto a la app web me parece q el avance de Damian (frontend) por ahora es suficiente, la complejidad del tp esta en los modelos. 
+
+3) Por otro lado el tp final tiene varios puntos teoricos/practicos, en paralelo a lo anterior podemos empezar un drive para ir armando el informe.
+
+
+
+
+
+
+
