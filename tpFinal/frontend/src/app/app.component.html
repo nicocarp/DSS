@@ -1,0 +1,47 @@
+<div class="panel panel-primary">
+  <div class="panel-heading">
+    <h3 class="panel-title">TP Final</h3>
+  </div>
+  <div class="panel-body">
+    <h3>Sistema de toma de decisiones</h3>
+
+    <div class="row">
+      <div class="center">
+        <file-drop headertext="Arrastre los archivos aquí" (onFileDrop)="dropped($event)" (onFileOver)="fileOver($event)" (onFileLeave)="fileLeave($event)">
+          <span> Para observar los archivos cargados...</span>
+        </file-drop>
+        <div class="upload-table">
+          <table class="table">
+            <thead align="center">
+              <tr>
+                <th>Nombre de los archivos</th>
+              </tr>
+            </thead>
+            <tbody class="upload-name-style">
+              <tr *ngFor="let item of files; let i=index">
+                <td>
+                  <strong>{{ item.relativePath }}</strong>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="row" align="center">
+    <button (click)="enviarArchivos()" type="button" class="btn btn-primary">enviar imagenes</button>
+  </div>
+
+
+
+  <div class="well">
+
+    <ul class="list-group">
+      <li class="list-group-item">Moyano Ivana</li>
+      <li class="list-group-item">Calfuquir Nicolas</li>
+      <li class="list-group-item">Mansilla Damian</li>
+      <li class="list-group-item">Murano Gaston</li>
+    </ul>
+
+  </div>
