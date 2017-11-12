@@ -49,15 +49,19 @@ class Predictor:
         return True
 
     def predecir(self, np_array):
-        #assert np_array.shape == (28,28), "Imagen debe ser 28*28"
-        if not self._modelos_cargados:
-            self.error = "Los modelos no fueron cargados"
-            return self.error      
 
+        if not self._modelos_cargados:
+            return {
+                "estado": -1,
+                "result":"Error: Los modelos no fueron cargados" 
+            }
+             
+            
         if np_array.shape != (28,28):
-            self.error = "Imagen debe ser 28*28"
-            return self.error
-        
+            return {"estado": -2,
+                    "result": "Error: Imagen debe ser 28*28"            
+            }
+            
         a = np_array.reshape( 1, 784)
         result = []
         for modelo in MODELOS:
@@ -65,4 +69,8 @@ class Predictor:
                 "nombre_modelo": modelo.get('nombre'),
                 "label": CLASES[modelo.get('instancia').predict(a)[0]]
             })
-        return result
+
+        return {
+            "estado": 1,
+            "result":result
+        }
