@@ -20,9 +20,12 @@ def allowed_file(filename):
 def index():
     return render_template('index.html')
     
+
+    
 @app.route('/prediccion', methods=['GET', 'POST'])
 def prediccion():
     result = ""
+    print request.files
     if request.method == 'POST' and 'inputImagen' in request.files:
         foto = request.files['inputImagen']
         if foto == None or not allowed_file(foto.filename):
