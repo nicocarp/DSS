@@ -3,8 +3,8 @@ import numpy as np
 import base64
 from PIL import Image
 import models
-
-UPLOAD_FOLDER = '/tmp'
+from models import AdjustVariable
+#UPLOAD_FOLDER = 'tmp'
 
 ALLOWED_EXTENSIONS = set(['png', 'jpg', 'jpeg'])
 
@@ -28,7 +28,8 @@ def prediccion():
         if foto == None or not allowed_file(foto.filename):
             result = "Archivo incorrecto"
         else:
-            s = UPLOAD_FOLDER + "/tmp.png"
+            #s = UPLOAD_FOLDER + "/tmp.png"
+            s = "tmp.png"
             foto.save(s)
             i = np.asarray(Image.open(s))
             
