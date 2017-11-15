@@ -4,7 +4,7 @@ import base64
 from PIL import Image
 import models
 from models import AdjustVariable
-#UPLOAD_FOLDER = 'tmp'
+import cv2
 
 ALLOWED_EXTENSIONS = set(['png', 'jpg', 'jpeg'])
 
@@ -25,19 +25,16 @@ def index():
 @app.route('/prediccion', methods=['GET', 'POST'])
 def prediccion():
     result = ""
-    print request.files
     if request.method == 'POST' and 'inputImagen' in request.files:
         foto = request.files['inputImagen']
         if foto == None or not allowed_file(foto.filename):
             result = "Archivo incorrecto"
         else:
-            #s = UPLOAD_FOLDER + "/tmp.png"
             s = "tmp.png"
             foto.save(s)
-            i = np.asarray(Image.open(s))
-            
-            result = predictor.predecir(i)
-            
+            i = cv2.imread('tmp.png', 0)
+            #i = np.asarray(Image.open(s))
+            result = predictor.predecir(i)          
 
     return jsonify(result)
 

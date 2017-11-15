@@ -28,11 +28,11 @@ MODELOS = [
         "path":'modelos/Randomforest.pickle',
         "instancia":None
     },
-    {
-        "nombre": 'CNN',
-        "path":'modelos/clasificadorNET-Damian1-score(0.9).pickle',
-        "instancia":None
-    }
+   # {
+   #     "nombre": 'CNN',
+   #     "path":'modelos/clasificadorNET-Damian1-score(0.9).pickle',
+   #     "instancia":None
+   # }
 ]
 
 class AdjustVariable(object):
@@ -76,7 +76,7 @@ class Predictor:
             
         if np_array.shape != (28,28):
             return {"estado": -2,
-                    "result": "Error: Imagen debe ser 28*28"            
+                    "result": "Error: Imagen debe ser 28*28 NO "+str(np_array.shape)
             }
             
         a = np_array.reshape( 1, 784)
