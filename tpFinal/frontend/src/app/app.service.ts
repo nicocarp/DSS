@@ -1,5 +1,5 @@
 import { Injectable } from '@angular/core';
-import { Http } from '@angular/http';
+import { Http, RequestOptions } from '@angular/http';
 import { Observable } from 'rxjs/Observable';
 import 'rxjs/add/operator/map';
 import { FileDropModule, UploadFile, UploadEvent } from 'ngx-file-drop/lib/ngx-drop';
@@ -12,12 +12,24 @@ export class AppService {
 
     /**
      * Envia las imagenes y devuelve los resultados
-     * @param url 
-     * @param files 
+     * @param url
+     * @param files
      */
     enviarImagenes(url: string, files: UploadFile[]): Observable<any> {
-        return this.http.post(url, files)
-        .do(res => console.log('enviando imagenes'))
-        .map(res => res.json());
+
+        const formData: FormData = new FormData();
+
+        let file: File;
+        files[0].fileEntry.file(archivo => file = archivo);
+        formData.append('inputImagen', file, file.name);
+        /*
+        let headers = new Headers();
+        /** No need to include Content-Type in Angular 4 */
+        /*
+        headers.append('Content-Type', 'multipart/form-data');
+        headers.append('Accept', 'application/json');
+        let options = new RequestOptions({ headers: headers });
+        */
+        return this.http.post(url, formData);
     }
 }

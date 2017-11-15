@@ -7,6 +7,9 @@
 
     <div class="row">
       <div class="center">
+        <!-- <input type="file" (change)="fileChange($event)" placeholder="Upload file" >-->
+        <!--accept=".pdf,.doc,.docx"-->
+
         <file-drop headertext="Arrastre los archivos aquí" (onFileDrop)="dropped($event)" (onFileOver)="fileOver($event)" (onFileLeave)="fileLeave($event)">
           <span> Para observar los archivos cargados...</span>
         </file-drop>
@@ -30,17 +33,44 @@
     </div>
   </div>
   <div class="row" align="center">
-    <button (click)="enviarArchivos()" type="button" class="btn btn-primary">enviar imagenes</button>
+    <button (click)="enviarArchivos()" type="button" class="btn btn-primary">Enviar imagenes</button>
   </div>
 
+  <div *ngIf="error.length > 0">
 
+    <div class="alert alert-danger">
+      <button type="button" class="close" data-dismiss="alert" aria-hidden="true">&times;</button>
+      <strong>Hubo un error al procesar la imagen: </strong> {{error}}
+    </div>
+
+  </div>
+  <div *ngIf="respuesta?.estado > 0">
+    
+    <div class="table-responsive">
+      <table class="table table-hover">
+        <thead>
+          <tr>
+            <th>Nombre de m&eacute;todo</th>
+            <th>Predicci&oacute;n</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr *ngFor="let resultado of respuesta.result">
+            <td>{{resultado.nombre_modelo}}</td>
+            <td>{{resultado.label}}</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+    
+  </div>
 
   <div class="well">
-
+<h3>Integrantes</h3>
     <ul class="list-group">
       <li class="list-group-item">Moyano Ivana</li>
-      <li class="list-group-item">Calfuquir Nicolas</li>
-      <li class="list-group-item">Mansilla Damian</li>
+      <li class="list-group-item">Calfuquir Nicolás</li>
+      <li class="list-group-item">Mansilla Damián</li>
       <li class="list-group-item">Murano Gaston</li>
     </ul>
 
