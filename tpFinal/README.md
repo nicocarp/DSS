@@ -1,3 +1,13 @@
+﻿#Resolución#
+1 - Para ejecutar la aplicación correr:
+python backend/main.py
+2 - Para compilar angular
+--> /frontend npm install
+-->/frontend/ ng server
+--> /frontend ng build
+Copiar dist en /backend/static/*
+
+
 ## Consigna ##
 Dado el conjunto de datos detallado anteriormente, desarrolle y responda los siguientes puntos:
 1. Qu ́e tipo de pre-procesamiento realizar ́ıa sobre los datos? C ́omo manejar ́ıa, por ejemplo, los valores de los pixels? Hay otros casos que deben ser  re-procesados? El pre-procesamiento de los datos var ́ıa dependiendo el m ́etodo a utilizar?

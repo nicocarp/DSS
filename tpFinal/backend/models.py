@@ -28,11 +28,11 @@ MODELOS = [
         "path":'modelos/Randomforest.pickle',
         "instancia":None
     },
-   # {
-   #     "nombre": 'CNN',
-   #     "path":'modelos/clasificadorNET-Damian1-score(0.9).pickle',
-   #     "instancia":None
-   # }
+    {
+        "nombre": 'CNN',
+        "path":'modelos/clasificadorNET-Damian1-score(0.9).pickle',
+        "instancia":None
+    }
 ]
 
 class AdjustVariable(object):

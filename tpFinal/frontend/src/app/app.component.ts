@@ -27,8 +27,8 @@ export class AppComponent {
 
 
   public dropped(event: any) {
-    
-   
+
+
     this.files = event.files;
     for (let file of event.files) {
       file.fileEntry.file(info => {
@@ -77,20 +77,24 @@ export class AppComponent {
       alert('Hubo problemas al cargar la imágen');
     }
   }
-  /*
-    fileChange(event) {
-      let fileList: FileList = event.target.files;
-      if (fileList.length > 0) {
-        let file: File = fileList[0];
-        let formData: FormData = new FormData();
-        formData.append('inputImagen', file, file.name);
+
+  fileChange(event) {
+    let fileList: FileList = event.target.files;
+    if (fileList.length > 0) {
+      let file: File = fileList[0];
+      let formData: FormData = new FormData();
+      formData.append('inputImagen', file, file.name);
 
 
-        this.http.post('/prediccion', formData)
-          .subscribe(
-          data => console.log('success'),
-          error => console.log(error)
-          );
-      }
-    }*/
+      this.http.post('/prediccion', formData)
+        .subscribe(
+        data => {
+          console.log('success');
+          this.respuesta = data.json();
+        },
+        error => console.log(error)
+        );
+    }
+
+  }
 }

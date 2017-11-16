@@ -38,7 +38,7 @@ module.exports = module.exports.toString();
 /***/ "../../../../../src/app/app.component.html":
 /***/ (function(module, exports) {
 
-module.exports = "<div class=\"panel panel-primary\">\n  <div class=\"panel-heading\">\n    <h3 class=\"panel-title\">TP Final</h3>\n  </div>\n  <div class=\"panel-body\">\n    <h3>Sistema de toma de decisiones</h3>\n\n    <div class=\"row\">\n      <div class=\"center\">\n        <!-- <input type=\"file\" (change)=\"fileChange($event)\" placeholder=\"Upload file\" >-->\n        <!--accept=\".pdf,.doc,.docx\"-->\n\n        <file-drop headertext=\"Arrastre los archivos aquí\" (onFileDrop)=\"dropped($event)\" (onFileOver)=\"fileOver($event)\" (onFileLeave)=\"fileLeave($event)\">\n          <span> Para observar los archivos cargados...</span>\n        </file-drop>\n        <div class=\"upload-table\">\n          <table class=\"table\">\n            <thead align=\"center\">\n              <tr>\n                <th>Nombre de los archivos</th>\n              </tr>\n            </thead>\n            <tbody class=\"upload-name-style\">\n              <tr *ngFor=\"let item of files; let i=index\">\n                <td>\n                  <strong>{{ item.relativePath }}</strong>\n                </td>\n              </tr>\n            </tbody>\n          </table>\n        </div>\n      </div>\n    </div>\n  </div>\n  <div class=\"row\" align=\"center\">\n    <button (click)=\"enviarArchivos()\" type=\"button\" class=\"btn btn-primary\">Enviar imagenes</button>\n  </div>\n\n  <div *ngIf=\"error.length > 0\">\n\n    <div class=\"alert alert-danger\">\n      <button type=\"button\" class=\"close\" data-dismiss=\"alert\" aria-hidden=\"true\">&times;</button>\n      <strong>Hubo un error al procesar la imagen: </strong> {{error}}\n    </div>\n\n  </div>\n  <div *ngIf=\"respuesta?.estado > 0\">\n    \n    <div class=\"table-responsive\">\n      <table class=\"table table-hover\">\n        <thead>\n          <tr>\n            <th>Nombre de m&eacute;todo</th>\n            <th>Predicci&oacute;n</th>\n          </tr>\n        </thead>\n        <tbody>\n          <tr *ngFor=\"let resultado of respuesta.result\">\n            <td>{{resultado.nombre_modelo}}</td>\n            <td>{{resultado.label}}</td>\n          </tr>\n        </tbody>\n      </table>\n    </div>\n    \n  </div>\n\n  <div class=\"well\">\n<h3>Integrantes</h3>\n    <ul class=\"list-group\">\n      <li class=\"list-group-item\">Moyano Ivana</li>\n      <li class=\"list-group-item\">Calfuquir Nicolás</li>\n      <li class=\"list-group-item\">Mansilla Damián</li>\n      <li class=\"list-group-item\">Murano Gaston</li>\n    </ul>\n\n  </div>"
+module.exports = "<div class=\"panel panel-primary\">\n  <div class=\"panel-heading\">\n    <h3 class=\"panel-title\">TP Final</h3>\n  </div>\n  <div class=\"panel-body\">\n    <h3>Sistema de toma de decisiones</h3>\n\n    <div class=\"row\">\n      <div class=\"center\">\n        <!-- <input type=\"file\" (change)=\"fileChange($event)\" placeholder=\"Upload file\" >-->\n        <!--accept=\".pdf,.doc,.docx\"-->\n\n        <file-drop headertext=\"Arrastre los archivos aquí\" (onFileDrop)=\"dropped($event)\" (onFileOver)=\"fileOver($event)\" (onFileLeave)=\"fileLeave($event)\">\n          <span> Para observar los archivos cargados...</span>\n        </file-drop>\n<!--\n          <div *ngIf=\"cargando\" class=\"row\" align=\"center\">\n            <label>{{nombreimagen}}</label>\n          </div>\n          <img [src]=\"url\" *ngIf=\"cargando\" (change)=\"readUrl($event)\" width=\"50%\" height=\"50%\">\n        -->\n\n        <div class=\"upload-table\">\n          <table class=\"table\">\n            <thead align=\"center\">\n              <tr>\n                <th>Nombre de los archivos</th>\n              </tr>\n            </thead>\n            <tbody class=\"upload-name-style\">\n              <tr *ngFor=\"let item of files; let i=index\">\n                <td>\n                  <strong>{{ item.relativePath }}</strong>\n                  <img src={{item.name}}>\n                </td>\n              </tr>\n            </tbody>\n          </table>\n        </div>\n      </div>\n    </div>\n  </div>\n  <div class=\"row\" align=\"center\">\n    <button (click)=\"enviarArchivos()\" type=\"button\" class=\"btn btn-primary\">Enviar imagenes</button>\n  </div>\n\n  <div *ngIf=\"error.length > 0\">\n\n    <div class=\"alert alert-danger\">\n      <button type=\"button\" class=\"close\" data-dismiss=\"alert\" aria-hidden=\"true\">&times;</button>\n      <strong>Hubo un error al procesar la imagen: </strong> {{error}}\n    </div>\n\n  </div>\n  <div *ngIf=\"respuesta?.estado > 0\">\n\n    <div class=\"table-responsive\">\n      <table class=\"table table-hover\">\n        <thead>\n          <tr>\n            <th>Nombre de m&eacute;todo</th>\n            <th>Predicci&oacute;n</th>\n          </tr>\n        </thead>\n        <tbody>\n          <tr *ngFor=\"let resultado of respuesta.result\">\n            <td>{{resultado.nombre_modelo}}</td>\n            <td>{{resultado.label}}</td>\n          </tr>\n        </tbody>\n      </table>\n    </div>\n\n  </div>\n\n  <div class=\"well\">\n    <h3>Integrantes</h3>\n    <ul class=\"list-group\">\n      <li class=\"list-group-item\">Moyano Ivana</li>\n      <li class=\"list-group-item\">Calfuquir Nicolás</li>\n      <li class=\"list-group-item\">Mansilla Damián</li>\n      <li class=\"list-group-item\">Mura Gaston</li>\n    </ul>\n\n  </div>"
 
 /***/ }),
 
@@ -69,21 +69,37 @@ var AppComponent = (function () {
         this.title = 'app';
         this.error = '';
         this.files = [];
+        this.cargando = false;
     }
     AppComponent.prototype.dropped = function (event) {
+        var _this = this;
         this.files = event.files;
         for (var _i = 0, _a = event.files; _i < _a.length; _i++) {
             var file = _a[_i];
             file.fileEntry.file(function (info) {
                 console.log(info);
+                _this.crearImagen(info);
             });
+        }
+        console.log('Fin....droped');
+    };
+    AppComponent.prototype.crearImagen = function (data) {
+        var _this = this;
+        console.log('creandoimagen');
+        var reader = new FileReader();
+        reader.addEventListener('load', function () {
+            _this.url = reader.result;
+            _this.cargando = true;
+            console.log(_this.url);
+        }, false);
+        if (data) {
+            console.log('reader');
+            reader.readAsDataURL(data);
         }
     };
     AppComponent.prototype.fileOver = function (event) {
-        console.log(event);
     };
     AppComponent.prototype.fileLeave = function (event) {
-        console.log(event);
     };
     AppComponent.prototype.enviarArchivos = function () {
         var _this = this;
@@ -103,6 +119,10 @@ var AppComponent = (function () {
     };
     return AppComponent;
 }());
+__decorate([
+    Object(__WEBPACK_IMPORTED_MODULE_1__angular_core__["E" /* Input */])(),
+    __metadata("design:type", Object)
+], AppComponent.prototype, "url", void 0);
 AppComponent = __decorate([
     Object(__WEBPACK_IMPORTED_MODULE_1__angular_core__["n" /* Component */])({
         selector: 'app-root',
