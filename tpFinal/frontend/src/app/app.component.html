@@ -13,6 +13,13 @@
         <file-drop headertext="Arrastre los archivos aquí" (onFileDrop)="dropped($event)" (onFileOver)="fileOver($event)" (onFileLeave)="fileLeave($event)">
           <span> Para observar los archivos cargados...</span>
         </file-drop>
+
+          <div *ngIf="cargando" class="row" align="center">
+            <label>{{nombreimagen}}</label>
+          </div>
+          <img [src]="url" *ngIf="cargando" (change)="readUrl($event)" width="50%" height="50%">
+ 
+
         <div class="upload-table">
           <table class="table">
             <thead align="center">
@@ -24,6 +31,7 @@
               <tr *ngFor="let item of files; let i=index">
                 <td>
                   <strong>{{ item.relativePath }}</strong>
+                  <img src={{item.name}}>
                 </td>
               </tr>
             </tbody>
@@ -45,7 +53,7 @@
 
   </div>
   <div *ngIf="respuesta?.estado > 0">
-    
+
     <div class="table-responsive">
       <table class="table table-hover">
         <thead>
@@ -62,16 +70,16 @@
         </tbody>
       </table>
     </div>
-    
+
   </div>
 
   <div class="well">
-<h3>Integrantes</h3>
+    <h3>Integrantes</h3>
     <ul class="list-group">
       <li class="list-group-item">Moyano Ivana</li>
       <li class="list-group-item">Calfuquir Nicolás</li>
       <li class="list-group-item">Mansilla Damián</li>
-      <li class="list-group-item">Murano Gaston</li>
+      <li class="list-group-item">Mura Gaston</li>
     </ul>
 
   </div>
